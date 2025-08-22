@@ -1,7 +1,13 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[1] * n for _ in range(m)]
-        for row in range(1, m):
-            for col in range(1, n):
-                dp[row][col] = dp[row][col - 1] + dp[row - 1][col]
-        return dp[m - 1][n - 1]
+        dp = [[-1] * (n + 1) for _ in range(m + 1)]
+        
+        def recursion(row, column):
+            if row == 1 or column == 1:
+                return 1
+            if dp[row][column] != -1:
+                return dp[row][column]
+            dp[row][column] = recursion(row - 1, column) + recursion(row, column - 1)
+            return dp[row][column]
+        
+        return recursion(m, n)
