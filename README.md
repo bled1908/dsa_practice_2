@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
