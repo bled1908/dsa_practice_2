@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
+| [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 ## Tree
 |  |
