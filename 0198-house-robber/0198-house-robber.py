@@ -1,18 +1,11 @@
 class Solution:
-    def helper(self, nums, n, index, dp):
-        if index == n:
-            return 0
-        if index == n - 1:
-            return nums[n-1]
-        if dp[index] != -1:
-            return dp[index]
-        steal = nums[index] + self.helper(nums, n, index + 2, dp)
-        dontsteal = self.helper(nums, n, index + 1, dp)
-        dp[index] = max(steal, dontsteal)
-        return dp[index]
-
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [-1] * (n + 1)
-        return self.helper(nums, n, 0, dp)
-        
+        dp = [0] * (n + 1)
+        if n < 2:
+            return nums[0]
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
+        for i in range(2, n):
+            dp[i] = max(nums[i] + dp[i - 2], dp[i - 1])
+        return dp[n - 1]
