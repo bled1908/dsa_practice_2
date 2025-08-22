@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bled1908/dsa_practice_2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bled1908/dsa_practice_2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 ## String
