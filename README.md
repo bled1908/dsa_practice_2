@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
+| [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
+| [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
