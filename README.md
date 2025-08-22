@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
