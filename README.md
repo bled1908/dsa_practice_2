@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
