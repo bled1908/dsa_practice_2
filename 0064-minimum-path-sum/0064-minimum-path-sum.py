@@ -1,9 +1,8 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
-
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
         dp = [[-1] * (n + 1) for _ in range(m + 1)]
+        dp[0][0]
 
         def recursion(row, column):
             if row < 0 or column < 0:
