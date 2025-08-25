@@ -1,7 +1,4 @@
 class Solution:
-    __import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))        
-
-
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         s1 = len(text1) + 1
         s2 = len(text2) + 1
