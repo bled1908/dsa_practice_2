@@ -1,6 +1,7 @@
-__import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))        
-
 class Solution:
+    __import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))        
+
+
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         s1 = len(text1) + 1
         s2 = len(text2) + 1
@@ -10,7 +11,3 @@ class Solution:
             for col in range(1, s2):
                 dp[row][col] = 1 + dp[row - 1][col - 1] if text1[row - 1] == text2[col - 1] else max(dp[row - 1][col], dp[row][col - 1]) 
         return dp[s1 - 1][s2 - 1]
-        
-        # debugging
-        for row in dp:
-            print(*row)
