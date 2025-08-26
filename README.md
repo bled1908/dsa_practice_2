@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0120-triangle) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
