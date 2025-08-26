@@ -1,10 +1,5 @@
 class Solution {
-    static {
-        for(int i = 0; i < 500; i++) {
-            characterReplacement("", 1);
-        }
-    }
-    public static int characterReplacement(String s, int k) {
+    public int characterReplacement(String s, int k) {
         int left = 0;
         int max_len = 0;
         int[] freq = new int[26];
