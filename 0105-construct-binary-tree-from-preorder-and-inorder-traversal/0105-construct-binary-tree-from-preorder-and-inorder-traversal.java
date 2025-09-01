@@ -15,26 +15,24 @@
  */
 class Solution {
     private int preIndex = 0;
+    Map<Integer, Integer> inorderMap = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return build(preorder, inorder, 0, inorder.length - 1);
+        for(int i = 0; i < inorder.length; i++) {
+            inorderMap.put(inorder[i], i);
+        }
+        return build(preorder, 0, inorder.length - 1);
     }
 
-    private TreeNode build(int[] preorder, int[] inorder, int inStart, int inEnd) {
+    private TreeNode build(int[] preorder, int inStart, int inEnd) {
         if(inStart > inEnd) return null;
 
         TreeNode root = new TreeNode(preorder[preIndex++]);
 
-        int inIndex = -1;
-        for(int i = inStart; i <= inEnd; i++) {
-            if(inorder[i] == root.val) {
-                inIndex = i;
-                break;
-            }
-        }
+        int inIndex = inorderMap.get(root.val);
 
-        root.left = build(preorder, inorder, inStart, inIndex - 1);
-        root.right = build(preorder, inorder, inIndex + 1, inEnd);
+        root.left = build(preorder, inStart, inIndex - 1);
+        root.right = build(preorder, inIndex + 1, inEnd);
 
         return root;
     }
