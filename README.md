@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/bled1908/dsa_practice_2/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bled1908/dsa_practice_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
