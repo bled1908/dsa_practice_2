@@ -15,9 +15,13 @@
  */
 class Solution {
     int postIndex;
+    Map<Integer, Integer> inorderMap = new HashMap<>();
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         postIndex = postorder.length - 1;
+        for(int i = 0; i < inorder.length; i++) {
+            inorderMap.put(inorder[i], i);
+        }
         return build(postorder, inorder, 0, inorder.length - 1);
     }
 
@@ -26,13 +30,7 @@ class Solution {
 
         TreeNode root = new TreeNode(postorder[postIndex--]);
 
-        int inIndex = -1;
-        for(int i = inStart; i <= inEnd; i++) {
-            if(inorder[i] == root.val) {
-                inIndex = i;
-                break;
-            }
-        }
+        int inIndex = inorderMap.get(root.val);
 
         root.right = build(postorder, inorder, inIndex + 1, inEnd);
         root.left = build(postorder, inorder, inStart, inIndex - 1);
