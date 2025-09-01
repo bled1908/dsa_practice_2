@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
