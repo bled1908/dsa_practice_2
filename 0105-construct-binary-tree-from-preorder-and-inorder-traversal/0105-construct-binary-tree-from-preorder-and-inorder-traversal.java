@@ -14,26 +14,29 @@
  * }
  */
 class Solution {
-    private int preIndex = 0;
-    Map<Integer, Integer> inorderMap = new HashMap<>();
-
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        for(int i = 0; i < inorder.length; i++) {
-            inorderMap.put(inorder[i], i);
+        if(preorder.length == 0) return null;
+
+        TreeNode root = new TreeNode(preorder[0]);
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+
+        int inIndex = 0;
+
+        for(int i = 1; i < preorder.length; i++) {
+            TreeNode node = stack.peek();
+            if(node.val != inorder[inIndex]) {
+                node.left = new TreeNode(preorder[i]);
+                stack.push(node.left);
+            } else {
+                while (!stack.isEmpty() && stack.peek().val == inorder[inIndex]) {
+                    node = stack.pop();
+                    inIndex++;
+                }
+                node.right = new TreeNode(preorder[i]);
+                stack.push(node.right);
+            }
         }
-        return build(preorder, 0, inorder.length - 1);
-    }
-
-    private TreeNode build(int[] preorder, int inStart, int inEnd) {
-        if(inStart > inEnd) return null;
-
-        TreeNode root = new TreeNode(preorder[preIndex++]);
-
-        int inIndex = inorderMap.get(root.val);
-
-        root.left = build(preorder, inStart, inIndex - 1);
-        root.right = build(preorder, inIndex + 1, inEnd);
-
         return root;
     }
 }
