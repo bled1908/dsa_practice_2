@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Math
