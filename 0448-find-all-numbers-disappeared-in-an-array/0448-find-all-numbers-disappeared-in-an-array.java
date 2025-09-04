@@ -10,7 +10,7 @@ class Solution {
                 i++;
             }
         }
-        for(int i = 0; i < n; i++) System.out.print(nums[i]);
+        // for(int i = 0; i < n; i++) System.out.print(nums[i]);
         List<Integer> res = new ArrayList<>();
         for(int i = 0; i < n; i++) {
             if(nums[i] != (i + 1)) res.add(i + 1);
