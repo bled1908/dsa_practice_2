@@ -19,9 +19,9 @@ class Solution {
     }
 
     private TreeNode solve(TreeNode root, int target) {
-        if(root == null) return root;
-        root.right = solve(root.right, target);
+        if(root == null) return null;
         root.left = solve(root.left, target);
+        root.right = solve(root.right, target);
         if(root.val == target && (root.left == null && root.right == null)) {
             return null;
         }
