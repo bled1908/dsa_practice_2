@@ -10,7 +10,6 @@ class Solution {
                 i++;
             }
         }
-        for(int i = 0; i < n; i++) System.out.print(nums[i] + " ");
         return nums[n - 1];
     }
 }
