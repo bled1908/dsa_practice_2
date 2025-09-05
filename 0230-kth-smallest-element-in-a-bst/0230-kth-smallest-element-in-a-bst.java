@@ -14,19 +14,16 @@
  * }
  */
 class Solution {
-    int count = 0, res = -1;
     public int kthSmallest(TreeNode root, int k) {
-        dfs(root, k);
-        return res;
-    }
-    private void dfs(TreeNode root, int k) {
-        if(root == null) return;
-        dfs(root.left, k);
-        count += 1;
-        if(count == k) {
-            res = root.val;
-            return;
+        LinkedList<TreeNode> stack = new LinkedList<>();
+        while(true) {
+            while(root != null) {
+            stack.push(root);
+            root = root.left;
+            }
+            root = stack.pop();
+            if(--k == 0) return root.val;
+            root = root.right;
         }
-        dfs(root.right, k);
     }
 }
