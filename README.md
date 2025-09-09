@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
