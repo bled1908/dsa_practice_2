@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bled1908/dsa_practice_2/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
