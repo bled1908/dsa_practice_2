@@ -1,24 +1,23 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length, n2 = nums2.length;
-        // first combine the array
-        int[] arr = new int[n1 + n2];
+        int total = n1 + n2;
+        int mid1 = (total - 1) / 2, mid2 = total / 2;
         int i = 0, j = 0, k = 0;
-        while(i < n1 && j < n2) {
-            arr[k++] = nums1[i] <= nums2[j] ? nums1[i++] : nums2[j++];
+        int curr = 0, prev = 0, count = 0;
+        while(count <= mid2) {
+            prev = curr;
+            if(i < n1 && (j >= n2 || nums1[i] <= nums2[j])) {
+                curr = nums1[i++];
+            } else {
+                curr = nums2[j++];
+            }
+            count++;
         }
-        while(i < n1) {
-            arr[k++] = nums1[i++];
-        }
-        while(j < n2) {
-            arr[k++] = nums2[j++];
-        }
-
-        int n3 = arr.length;
-        if((n3 & 1) == 1) {
-            return arr[n3 / 2];
+        if((total & 1) == 1) {
+            return curr;
         } else {
-            return (arr[n3 / 2] + arr[(n3 / 2) - 1]) / 2.0;
+            return (curr + prev) / 2.0;
         }
     }
 }
