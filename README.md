@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bled1908/dsa_practice_2/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bled1908/dsa_practice_2/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
