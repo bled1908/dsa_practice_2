@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bled1908/dsa_practice_2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0053-maximum-subarray) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
