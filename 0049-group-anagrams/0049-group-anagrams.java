@@ -1,14 +1,17 @@
-// import java.util.*;
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String, List<String>> anagramMap = new HashMap<>();
+        if(strs == null || strs.length == 0) return new ArrayList<>();
 
-        for(String word: strs) {
-            char[] chars = word.toCharArray();
-            Arrays.sort(chars);
-            String key = new String(chars);
-            anagramMap.computeIfAbsent(key, k -> new ArrayList<>()).add(word);
+        Map<String, List<String>> map = new HashMap<>();
+
+        for(String s: strs) {
+            char[] char_arr = s.toCharArray();
+            Arrays.sort(char_arr);
+            String key = String.valueOf(char_arr);
+            List<String> group = map.getOrDefault(key, new ArrayList<>());
+            group.add(s);
+            map.put(key, group);
         }
-        return new ArrayList<>(anagramMap.values());
+        return new ArrayList<>(map.values());
     }
 }
