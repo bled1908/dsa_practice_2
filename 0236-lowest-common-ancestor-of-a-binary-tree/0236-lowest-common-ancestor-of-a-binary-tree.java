@@ -9,13 +9,25 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null || root == p || root == q) {
-            return root;
+        ArrayList<TreeNode> path_p = new ArrayList<>();
+        ArrayList<TreeNode> path_q = new ArrayList<>();
+        getPath(root, p, path_p);
+        getPath(root, q, path_q);
+        int i = 0;
+        TreeNode lca = null;
+        while(i < path_p.size() && i < path_q.size() && path_p.get(i) == path_q.get(i)) {
+            lca = path_p.get(i);
+            i++;
         }
-        TreeNode left_found = lowestCommonAncestor(root.left, p, q);
-        TreeNode right_found = lowestCommonAncestor(root.right, p, q);
-        if(left_found == null) return right_found;
-        else if(right_found == null) return left_found;
-        return root;
+        return lca;
+    }
+
+    private boolean getPath(TreeNode root, TreeNode e, ArrayList path) {
+        if(root == null) return false;
+        path.add(root);
+        if(root == e) return true;
+        if(getPath(root.left, e, path) || getPath(root.right, e, path)) return true;
+        path.remove(path.size() - 1);
+        return false;
     }
 }
