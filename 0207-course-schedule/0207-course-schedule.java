@@ -1,30 +1,43 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        // Setup data structure 
         List<List<Integer>> adj = new ArrayList<>();
-        int n = numCourses;
-        for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        int[] indegree = new int[n];
-        for(int[] edge: prerequisites) {
-            int a = edge[1];
-            int b = edge[0];
-            adj.get(a).add(b);
-            indegree[b]++;
+        int[] inDegree = new int[numCourses];
+
+        // Initialize our adjav=cency list
+        for(int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < n; i++) {
-            if(indegree[i] == 0) q.offer(i);
+
+        // Build graph and calculate in-degree
+        // prerequisite -> course
+        for(int[] preq: prerequisites) {
+            int course = preq[0];
+            int prerequisite = preq[1];
+            adj.get(prerequisite).add(course);
+
+            inDegree[course]++;
         }
-        int count = 0;
-        while(!q.isEmpty()) {
-            int t = q.poll();
-            count++;
-            for(int x: adj.get(t)) {
-                indegree[x]--;
-                if(indegree[x] == 0) {
-                    q.offer(x);
-                }
+
+        // Initialize queue with all courses having 0 prerequisites
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i = 0; i < numCourses; i++) {
+            if(inDegree[i] == 0) queue.offer(i);
+        }
+
+        int nodesProcessed = 0;
+
+        // BFS Traversal (Kahn's Algorithm)
+        while(!queue.isEmpty()) {
+            int currentCourse = queue.poll();
+            nodesProcessed++;
+            for(int neighbor: adj.get(currentCourse)) {
+                inDegree[neighbor]--;
+                if(inDegree[neighbor] == 0) queue.add(neighbor);
             }
         }
-        return count == n;
+
+        // FinalCheck: If all courses were processes, no cycle exists
+        return nodesProcessed == numCourses;
     }
 }
