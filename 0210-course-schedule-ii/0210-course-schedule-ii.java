@@ -1,34 +1,41 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
+        // Initialize graph and indegree array
         List<List<Integer>> adj = new ArrayList<>();
-        int n = numCourses;
-        for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        int[] indegree = new int[n];
-        for(int[] edge: prerequisites) {
-            int a = edge[1];
-            int b = edge[0];
-            adj.get(a).add(b);
-            indegree[b]++;
+        int[] inDegree = new int[numCourses];
+
+        for(int i = 0; i < numCourses; i++) adj.add(new ArrayList<>());
+
+        // fill our graph (0, 1) => 1 -> 0, and indegree
+        for(int[] prereq: prerequisites) {
+            int course = prereq[0];
+            int prerequisite = prereq[1];
+            adj.get(prerequisite).add(course);
+
+            inDegree[course]++;
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < n; i++) {
-            if(indegree[i] == 0) q.offer(i);
+
+        // Initialize our result list and queue
+        Queue<Integer> queue = new LinkedList<>();
+        List<Integer> result = new ArrayList<>();
+        
+        // fill our initial queue with all courses who have indegree == 0
+        for(int i = 0; i < numCourses; i++) {
+            if(inDegree[i] == 0) queue.offer(i);
         }
-        int count = 0;
-        int[] ans = new int[n];
-        int i = 0;
-        while(!q.isEmpty()) {
-            int t = q.poll();
-            count++;
-            ans[i++] = t;
-            for(int x: adj.get(t)) {
-                indegree[x]--;
-                if(indegree[x] == 0) {
-                    q.offer(x);
-                }
+
+        // BFS Traversal (Kahn's Algorithm)
+        while(!queue.isEmpty()) {
+            int currentCourse = queue.poll();
+            result.add(currentCourse);
+            for(int neighbor: adj.get(currentCourse)) {
+                inDegree[neighbor]--;
+                if(inDegree[neighbor] == 0) queue.offer(neighbor);
             }
         }
-        if(count != n) return new int[]{};
-        return ans;
+
+        if(result.size() == numCourses) 
+            return result.stream().mapToInt(i -> i).toArray();
+        return new int[0];
     }
 }
