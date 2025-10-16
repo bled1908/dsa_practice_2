@@ -1,9 +1,4 @@
 class Solution {
-    static{
-        for(int i = 0; i < 1000; i++){
-            canFinish(0, new int[][]{});
-        }
-    }
     public static boolean canFinish(int numCourses, int[][] prerequisites) {
         // Setup data structure 
         List<List<Integer>> adj = new ArrayList<>();
