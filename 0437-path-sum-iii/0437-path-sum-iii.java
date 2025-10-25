@@ -15,7 +15,7 @@
  */
 class Solution {
     long count = 0;
-    private void dfs(TreeNode root, int targetSum, int currSum) {
+    private void dfs(TreeNode root, int targetSum, long currSum) {
         if(root == null) {
             return;
         }
