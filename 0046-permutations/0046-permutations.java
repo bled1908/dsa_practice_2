@@ -1,37 +1,39 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result  = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-        backtrack(result, new ArrayList<>(), used, nums);
-        return result;
+        List<List<Integer>> results  = new ArrayList<>();
+        backtrack(0, nums, results);
+        return results;
     }
 
-    private void backtrack(List<List<Integer>> result, List<Integer> currentPermutation, boolean[] used, int[] nums) {
-        // Base Case: If our currentPermutation is the same size as our input array
-        // It means we have a complete valid permutation
-        if(currentPermutation.size() == nums.length) {
-            // Add a new *new copy of the current permutation to the results
-            // if we add 'currentPermutation' directly, it will be emptied by backtracking
-            result.add(new ArrayList<>(currentPermutation));
+    private void backtrack(int index, int[] nums, List<List<Integer>> results) {
+        // If the index has reached the end of the array, we have a complete permutation
+        if(index == nums.length) {
+            results.add(toList(nums));
             return;
         }
 
-        // Recursive step: Try every number
-        for(int i = 0; i < nums.length; i++) {
-            // we will only consider this number if we haven't used this in our path
-            if(!used[i]) {
-                // 1. Add the number and mark it as used
-                currentPermutation.add(nums[i]);
-                used[i] = true;
+        // Recursive step: Iterate from the current index to the end
+        for (int i = index; i < nums.length; i++) {
+            // Choose: Swap the current element (nums[i]) with the element at the index position
+            swap(nums, index, i);
 
-                // 2. Explore: Recurse to build the rest of the permutation
-                backtrack(result, currentPermutation, used, nums);
+            // Explore: Recurse to fill the next position
+            backtrack(index + 1, nums, results);
 
-                // 3. Unchoose (Backtrack): Remove the number and mark it
-                // This allows the next iteration of the loop to try a different number in this same position
-                used[i] = false;
-                currentPermutation.remove(currentPermutation.size() - 1);
-            }
+            // Un-choose(Backtrack): Swap the elements back to restore the original array state for teh next iteration of the loop
+            swap(nums, index, i);
         }
+    }
+
+    private List<Integer> toList(int[] nums) {
+        List<Integer> list = new ArrayList<>();
+        for (int num: nums) list.add(num);
+        return list;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
