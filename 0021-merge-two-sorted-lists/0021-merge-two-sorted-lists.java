@@ -22,7 +22,7 @@ class Solution {
             }
             tail = tail.next;
         }
-        tail.next = (list1 == null) ? list2 : list1;
+        tail.next = (list1 != null) ? list1 : list2;
         return dummy.next;
     }
 }
