@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bled1908/dsa_practice_2/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/bled1908/dsa_practice_2/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
