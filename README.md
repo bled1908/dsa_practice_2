@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bled1908/dsa_practice_2/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bled1908/dsa_practice_2/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
