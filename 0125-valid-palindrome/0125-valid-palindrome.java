@@ -1,5 +1,8 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        if (s == null) {
+            return false;
+        }
         int left = 0, right = s.length() - 1;
         while(left < right) {
             while(left < right && !Character.isLetterOrDigit(s.charAt(left))) {
