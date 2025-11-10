@@ -10,17 +10,18 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> set = new HashSet<>();
-        for(int num: nums) set.add(num);
         ListNode dummy = new ListNode(-1, head);
-        ListNode prev = dummy;
         ListNode curr = head;
+        ListNode prev = dummy;
+        HashSet<Integer> set = new HashSet<>();
+        for(int i = 0; i < nums.length; i++) set.add(nums[i]);
         while(curr != null) {
             if(set.contains(curr.val)) {
-                prev.next = curr.next;
                 curr = curr.next;
-            } else {
-                prev = prev.next;
+                prev.next = curr;
+            }
+            else {
+                prev = curr;
                 curr = curr.next;
             }
         }
