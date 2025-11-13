@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bled1908/dsa_practice_2/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
