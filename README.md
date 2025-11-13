@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bled1908/dsa_practice_2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bled1908/dsa_practice_2/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bled1908/dsa_practice_2/tree/master/0041-first-missing-positive) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bled1908/dsa_practice_2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bled1908/dsa_practice_2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bled1908/dsa_practice_2/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/bled1908/dsa_practice_2/tree/master/0287-find-the-duplicate-number) |
