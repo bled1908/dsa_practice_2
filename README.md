@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/bled1908/dsa_practice_2/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bled1908/dsa_practice_2/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/bled1908/dsa_practice_2/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
