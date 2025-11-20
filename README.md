@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bled1908/dsa_practice_2/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/bled1908/dsa_practice_2/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bled1908/dsa_practice_2/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bled1908/dsa_practice_2/tree/master/0046-permutations) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bled1908/dsa_practice_2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bled1908/dsa_practice_2/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/bled1908/dsa_practice_2/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bled1908/dsa_practice_2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0076-minimum-window-substring) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/bled1908/dsa_practice_2/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
