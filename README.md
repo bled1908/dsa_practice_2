@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bled1908/dsa_practice_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/bled1908/dsa_practice_2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bled1908/dsa_practice_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bled1908/dsa_practice_2/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bled1908/dsa_practice_2/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0115-distinct-subsequences) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0043-multiply-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
