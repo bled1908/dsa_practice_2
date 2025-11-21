@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/bled1908/dsa_practice_2/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/bled1908/dsa_practice_2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bled1908/dsa_practice_2/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/bled1908/dsa_practice_2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/bled1908/dsa_practice_2/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
