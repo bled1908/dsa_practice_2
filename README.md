@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/bled1908/dsa_practice_2/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bled1908/dsa_practice_2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bled1908/dsa_practice_2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bled1908/dsa_practice_2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bled1908/dsa_practice_2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bled1908/dsa_practice_2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
