@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/bled1908/dsa_practice_2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bled1908/dsa_practice_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bled1908/dsa_practice_2/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/bled1908/dsa_practice_2/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bled1908/dsa_practice_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bled1908/dsa_practice_2/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Graph
 |  |
 | ------- |
