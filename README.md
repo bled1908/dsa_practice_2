@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bled1908/dsa_practice_2/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bled1908/dsa_practice_2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bled1908/dsa_practice_2/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/bled1908/dsa_practice_2/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/bled1908/dsa_practice_2/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/bled1908/dsa_practice_2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0222-count-complete-tree-nodes) |
