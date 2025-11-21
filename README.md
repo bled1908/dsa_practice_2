@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/bled1908/dsa_practice_2/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/bled1908/dsa_practice_2/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bled1908/dsa_practice_2/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0209-minimum-size-subarray-sum) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/bled1908/dsa_practice_2/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/bled1908/dsa_practice_2/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0095-unique-binary-search-trees-ii) |
 ## Quickselect
 |  |
 | ------- |
