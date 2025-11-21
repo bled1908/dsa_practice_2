@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/bled1908/dsa_practice_2/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/bled1908/dsa_practice_2/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/bled1908/dsa_practice_2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bled1908/dsa_practice_2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0209-minimum-size-subarray-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bled1908/dsa_practice_2/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/bled1908/dsa_practice_2/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bled1908/dsa_practice_2/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/bled1908/dsa_practice_2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bled1908/dsa_practice_2/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bled1908/dsa_practice_2/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/bled1908/dsa_practice_2/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
