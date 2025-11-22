@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/bled1908/dsa_practice_2/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/bled1908/dsa_practice_2/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/bled1908/dsa_practice_2/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/bled1908/dsa_practice_2/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/bled1908/dsa_practice_2/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bled1908/dsa_practice_2/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
