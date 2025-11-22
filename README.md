@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bled1908/dsa_practice_2/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bled1908/dsa_practice_2/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/bled1908/dsa_practice_2/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bled1908/dsa_practice_2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/bled1908/dsa_practice_2/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bled1908/dsa_practice_2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bled1908/dsa_practice_2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/bled1908/dsa_practice_2/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bled1908/dsa_practice_2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
