@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/bled1908/dsa_practice_2/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/bled1908/dsa_practice_2/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/bled1908/dsa_practice_2/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 ## Quickselect
 |  |
 | ------- |
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
