@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/bled1908/dsa_practice_2/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/bled1908/dsa_practice_2/tree/master/0441-arranging-coins) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
+| [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bled1908/dsa_practice_2/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 ## Graph
 |  |
 | ------- |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -1012,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bled1908/dsa_practice_2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 ## Memoization
 |  |
 | ------- |
