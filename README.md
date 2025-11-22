@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/bled1908/dsa_practice_2/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/bled1908/dsa_practice_2/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/bled1908/dsa_practice_2/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bled1908/dsa_practice_2/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/bled1908/dsa_practice_2/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
