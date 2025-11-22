@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bled1908/dsa_practice_2/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bled1908/dsa_practice_2/tree/master/0739-daily-temperatures) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1393,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/bled1908/dsa_practice_2/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/bled1908/dsa_practice_2/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
+| [0739-daily-temperatures](https://github.com/bled1908/dsa_practice_2/tree/master/0739-daily-temperatures) |
 ## Graph
 |  |
 | ------- |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/bled1908/dsa_practice_2/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
