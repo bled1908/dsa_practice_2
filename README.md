@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bled1908/dsa_practice_2/tree/master/0757-set-intersection-size-at-least-two) |
+| [0764-largest-plus-sign](https://github.com/bled1908/dsa_practice_2/tree/master/0764-largest-plus-sign) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/bled1908/dsa_practice_2/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/bled1908/dsa_practice_2/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/bled1908/dsa_practice_2/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/bled1908/dsa_practice_2/tree/master/0764-largest-plus-sign) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
