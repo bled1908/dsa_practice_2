@@ -932,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/bled1908/dsa_practice_2/tree/master/0509-fibonacci-number) |
 | [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
+| [0761-special-binary-string](https://github.com/bled1908/dsa_practice_2/tree/master/0761-special-binary-string) |
 ## String
 |  |
 | ------- |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/bled1908/dsa_practice_2/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/bled1908/dsa_practice_2/tree/master/0761-special-binary-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
