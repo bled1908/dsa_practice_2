@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/bled1908/dsa_practice_2/tree/master/0785-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1451,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/bled1908/dsa_practice_2/tree/master/0785-is-graph-bipartite) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1506,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/bled1908/dsa_practice_2/tree/master/0785-is-graph-bipartite) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/bled1908/dsa_practice_2/tree/master/0785-is-graph-bipartite) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
