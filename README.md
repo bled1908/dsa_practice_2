@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/bled1908/dsa_practice_2/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/bled1908/dsa_practice_2/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bled1908/dsa_practice_2/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bled1908/dsa_practice_2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/bled1908/dsa_practice_2/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/bled1908/dsa_practice_2/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
