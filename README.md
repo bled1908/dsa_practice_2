@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
+| [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1435,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/bled1908/dsa_practice_2/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -1813,4 +1815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
