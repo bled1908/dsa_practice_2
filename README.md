@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/bled1908/dsa_practice_2/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/bled1908/dsa_practice_2/tree/master/0396-rotate-function) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/bled1908/dsa_practice_2/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/bled1908/dsa_practice_2/tree/master/0396-rotate-function) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
