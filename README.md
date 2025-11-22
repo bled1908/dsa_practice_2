@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/bled1908/dsa_practice_2/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bled1908/dsa_practice_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bled1908/dsa_practice_2/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/bled1908/dsa_practice_2/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/bled1908/dsa_practice_2/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/bled1908/dsa_practice_2/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/bled1908/dsa_practice_2/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/bled1908/dsa_practice_2/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
@@ -1033,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bled1908/dsa_practice_2/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
 | ------- |
