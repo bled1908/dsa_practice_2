@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/bled1908/dsa_practice_2/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/bled1908/dsa_practice_2/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/0643-maximum-average-subarray-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/0643-maximum-average-subarray-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
