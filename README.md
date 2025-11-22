@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bled1908/dsa_practice_2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0730-count-different-palindromic-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/bled1908/dsa_practice_2/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/bled1908/dsa_practice_2/tree/master/0726-number-of-atoms) |
+| [0730-count-different-palindromic-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0730-count-different-palindromic-subsequences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
