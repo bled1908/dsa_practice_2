@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bled1908/dsa_practice_2/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
