@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/bled1908/dsa_practice_2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/bled1908/dsa_practice_2/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/bled1908/dsa_practice_2/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
 | [0775-global-and-local-inversions](https://github.com/bled1908/dsa_practice_2/tree/master/0775-global-and-local-inversions) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bled1908/dsa_practice_2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/bled1908/dsa_practice_2/tree/master/0754-reach-a-number) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1346,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1427,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1503,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bled1908/dsa_practice_2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/bled1908/dsa_practice_2/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
