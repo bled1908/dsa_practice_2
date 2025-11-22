@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/bled1908/dsa_practice_2/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bled1908/dsa_practice_2/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bled1908/dsa_practice_2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1362,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bled1908/dsa_practice_2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bled1908/dsa_practice_2/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -1746,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/bled1908/dsa_practice_2/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 ## Binary Indexed Tree
 |  |
 | ------- |
