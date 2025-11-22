@@ -1371,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/bled1908/dsa_practice_2/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/bled1908/dsa_practice_2/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/bled1908/dsa_practice_2/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/bled1908/dsa_practice_2/tree/master/0627-swap-sex-of-employees) |
 ## Rolling Hash
 |  |
 | ------- |
