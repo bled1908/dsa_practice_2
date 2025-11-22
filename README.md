@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/bled1908/dsa_practice_2/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/bled1908/dsa_practice_2/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/bled1908/dsa_practice_2/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/bled1908/dsa_practice_2/tree/master/0498-diagonal-traverse) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/bled1908/dsa_practice_2/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/bled1908/dsa_practice_2/tree/master/0498-diagonal-traverse) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
