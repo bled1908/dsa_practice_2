@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bled1908/dsa_practice_2/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/bled1908/dsa_practice_2/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/bled1908/dsa_practice_2/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1173,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/bled1908/dsa_practice_2/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/bled1908/dsa_practice_2/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
