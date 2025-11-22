@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
+| [0476-number-complement](https://github.com/bled1908/dsa_practice_2/tree/master/0476-number-complement) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
