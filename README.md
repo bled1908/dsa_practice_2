@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/bled1908/dsa_practice_2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/bled1908/dsa_practice_2/tree/master/0565-array-nesting) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bled1908/dsa_practice_2/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/bled1908/dsa_practice_2/tree/master/0565-array-nesting) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
