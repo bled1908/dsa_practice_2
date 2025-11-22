@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/bled1908/dsa_practice_2/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/bled1908/dsa_practice_2/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bled1908/dsa_practice_2/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bled1908/dsa_practice_2/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bled1908/dsa_practice_2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bled1908/dsa_practice_2/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
