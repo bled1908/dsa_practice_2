@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/bled1908/dsa_practice_2/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/bled1908/dsa_practice_2/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 ## Graph
 |  |
 | ------- |
@@ -1092,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 ## Bucket Sort
 |  |
 | ------- |
