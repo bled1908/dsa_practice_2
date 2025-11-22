@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/bled1908/dsa_practice_2/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/bled1908/dsa_practice_2/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
