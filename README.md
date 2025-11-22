@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/bled1908/dsa_practice_2/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/bled1908/dsa_practice_2/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/bled1908/dsa_practice_2/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/bled1908/dsa_practice_2/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 ## Quickselect
 |  |
 | ------- |
