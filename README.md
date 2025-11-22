@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bled1908/dsa_practice_2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/bled1908/dsa_practice_2/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/bled1908/dsa_practice_2/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bled1908/dsa_practice_2/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bled1908/dsa_practice_2/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1256,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
