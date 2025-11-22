@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/bled1908/dsa_practice_2/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/bled1908/dsa_practice_2/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bled1908/dsa_practice_2/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/bled1908/dsa_practice_2/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/bled1908/dsa_practice_2/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bled1908/dsa_practice_2/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
