@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/bled1908/dsa_practice_2/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/bled1908/dsa_practice_2/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bled1908/dsa_practice_2/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/bled1908/dsa_practice_2/tree/master/0441-arranging-coins) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -833,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bled1908/dsa_practice_2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
@@ -963,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bled1908/dsa_practice_2/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
