@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bled1908/dsa_practice_2/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1442,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/bled1908/dsa_practice_2/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
 ## Bitmask
 |  |
 | ------- |
