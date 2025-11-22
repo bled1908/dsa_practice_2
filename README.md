@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bled1908/dsa_practice_2/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
