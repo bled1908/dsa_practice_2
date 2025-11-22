@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bled1908/dsa_practice_2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bled1908/dsa_practice_2/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/bled1908/dsa_practice_2/tree/master/0696-count-binary-substrings) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/bled1908/dsa_practice_2/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/bled1908/dsa_practice_2/tree/master/0710-random-pick-with-blacklist) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -1202,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/bled1908/dsa_practice_2/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
