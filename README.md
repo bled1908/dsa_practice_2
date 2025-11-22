@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/bled1908/dsa_practice_2/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bled1908/dsa_practice_2/tree/master/0757-set-intersection-size-at-least-two) |
 | [0764-largest-plus-sign](https://github.com/bled1908/dsa_practice_2/tree/master/0764-largest-plus-sign) |
+| [0766-toeplitz-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0766-toeplitz-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bled1908/dsa_practice_2/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/bled1908/dsa_practice_2/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
+| [0766-toeplitz-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0766-toeplitz-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
