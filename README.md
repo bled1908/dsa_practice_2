@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/bled1908/dsa_practice_2/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/bled1908/dsa_practice_2/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/bled1908/dsa_practice_2/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bled1908/dsa_practice_2/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/bled1908/dsa_practice_2/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
