@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/bled1908/dsa_practice_2/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/bled1908/dsa_practice_2/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/bled1908/dsa_practice_2/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/bled1908/dsa_practice_2/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/bled1908/dsa_practice_2/tree/master/0447-number-of-boomerangs) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/bled1908/dsa_practice_2/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
