@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/bled1908/dsa_practice_2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/bled1908/dsa_practice_2/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/bled1908/dsa_practice_2/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/bled1908/dsa_practice_2/tree/master/0664-strange-printer) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/bled1908/dsa_practice_2/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/bled1908/dsa_practice_2/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
