@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/bled1908/dsa_practice_2/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/bled1908/dsa_practice_2/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/bled1908/dsa_practice_2/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1172,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/bled1908/dsa_practice_2/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
