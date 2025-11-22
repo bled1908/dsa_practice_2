@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/bled1908/dsa_practice_2/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/bled1908/dsa_practice_2/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/bled1908/dsa_practice_2/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/bled1908/dsa_practice_2/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/bled1908/dsa_practice_2/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
