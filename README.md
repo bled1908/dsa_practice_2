@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/bled1908/dsa_practice_2/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/bled1908/dsa_practice_2/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bled1908/dsa_practice_2/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/bled1908/dsa_practice_2/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/bled1908/dsa_practice_2/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/bled1908/dsa_practice_2/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
