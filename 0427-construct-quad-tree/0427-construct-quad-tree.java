@@ -55,4 +55,3 @@ class Solution {
             return new Node(true, false, topLeft, topRight, bottomLeft, bottomRight);
     }
 }
-//Please upvote :)
