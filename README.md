@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/bled1908/dsa_practice_2/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/bled1908/dsa_practice_2/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/bled1908/dsa_practice_2/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/bled1908/dsa_practice_2/tree/master/0372-super-pow) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
