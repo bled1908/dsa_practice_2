@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/bled1908/dsa_practice_2/tree/master/0661-image-smoother) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0672-bulb-switcher-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
