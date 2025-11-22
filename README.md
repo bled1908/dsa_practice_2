@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/bled1908/dsa_practice_2/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
+| [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
 | ------- |
@@ -1103,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
 ## Memoization
 |  |
 | ------- |
