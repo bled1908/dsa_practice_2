@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/bled1908/dsa_practice_2/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/bled1908/dsa_practice_2/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0492-construct-the-rectangle) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
