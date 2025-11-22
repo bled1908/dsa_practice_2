@@ -1129,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
+| [0796-rotate-string](https://github.com/bled1908/dsa_practice_2/tree/master/0796-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1744,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/bled1908/dsa_practice_2/tree/master/0796-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
