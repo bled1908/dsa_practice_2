@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bled1908/dsa_practice_2/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/bled1908/dsa_practice_2/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -997,12 +999,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 ## Trie
 |  |
 | ------- |
