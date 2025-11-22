@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/bled1908/dsa_practice_2/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/bled1908/dsa_practice_2/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/bled1908/dsa_practice_2/tree/master/0517-super-washing-machines) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bled1908/dsa_practice_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bled1908/dsa_practice_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bled1908/dsa_practice_2/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/bled1908/dsa_practice_2/tree/master/0517-super-washing-machines) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
