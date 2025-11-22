@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/bled1908/dsa_practice_2/tree/master/0775-global-and-local-inversions) |
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/bled1908/dsa_practice_2/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/bled1908/dsa_practice_2/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/bled1908/dsa_practice_2/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bled1908/dsa_practice_2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
+| [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1358,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
