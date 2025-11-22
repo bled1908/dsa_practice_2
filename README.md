@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/bled1908/dsa_practice_2/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/bled1908/dsa_practice_2/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/bled1908/dsa_practice_2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bled1908/dsa_practice_2/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/bled1908/dsa_practice_2/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/bled1908/dsa_practice_2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
