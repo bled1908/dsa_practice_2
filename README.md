@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/bled1908/dsa_practice_2/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/bled1908/dsa_practice_2/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/bled1908/dsa_practice_2/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bled1908/dsa_practice_2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/bled1908/dsa_practice_2/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bled1908/dsa_practice_2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bled1908/dsa_practice_2/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
@@ -926,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
