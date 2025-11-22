@@ -1478,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bled1908/dsa_practice_2/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -1502,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bled1908/dsa_practice_2/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0707-design-linked-list) |
+| [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1687,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 ## Bitmask
 |  |
 | ------- |
