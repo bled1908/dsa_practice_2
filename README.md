@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0450-delete-node-in-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/bled1908/dsa_practice_2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/bled1908/dsa_practice_2/tree/master/0547-number-of-provinces) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -827,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0341-flatten-nested-list-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
