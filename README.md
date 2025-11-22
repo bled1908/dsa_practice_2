@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/bled1908/dsa_practice_2/tree/master/0591-tag-validator) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0591-tag-validator](https://github.com/bled1908/dsa_practice_2/tree/master/0591-tag-validator) |
 ## Graph
 |  |
 | ------- |
