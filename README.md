@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/bled1908/dsa_practice_2/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/bled1908/dsa_practice_2/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bled1908/dsa_practice_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bled1908/dsa_practice_2/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/bled1908/dsa_practice_2/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/bled1908/dsa_practice_2/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
 ## Quickselect
 |  |
 | ------- |
