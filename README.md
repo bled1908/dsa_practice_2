@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/bled1908/dsa_practice_2/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/bled1908/dsa_practice_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/bled1908/dsa_practice_2/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/bled1908/dsa_practice_2/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/bled1908/dsa_practice_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
