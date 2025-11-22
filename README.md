@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/bled1908/dsa_practice_2/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/bled1908/dsa_practice_2/tree/master/0690-employee-importance) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/bled1908/dsa_practice_2/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bled1908/dsa_practice_2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0669-trim-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
