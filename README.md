@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/bled1908/dsa_practice_2/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bled1908/dsa_practice_2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/bled1908/dsa_practice_2/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/bled1908/dsa_practice_2/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/bled1908/dsa_practice_2/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/bled1908/dsa_practice_2/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1048,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -1189,10 +1194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/bled1908/dsa_practice_2/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/bled1908/dsa_practice_2/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 ## Bitmask
 |  |
 | ------- |
