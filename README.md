@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/bled1908/dsa_practice_2/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/bled1908/dsa_practice_2/tree/master/0645-set-mismatch) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/bled1908/dsa_practice_2/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/bled1908/dsa_practice_2/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/bled1908/dsa_practice_2/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/bled1908/dsa_practice_2/tree/master/0645-set-mismatch) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/bled1908/dsa_practice_2/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/bled1908/dsa_practice_2/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
