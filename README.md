@@ -1258,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/bled1908/dsa_practice_2/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/bled1908/dsa_practice_2/tree/master/0185-department-top-three-salaries) |
 | [0511-game-play-analysis-i](https://github.com/bled1908/dsa_practice_2/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0550-game-play-analysis-iv) |
 ## Rolling Hash
 |  |
 | ------- |
