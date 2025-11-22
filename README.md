@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-valid-tic-tac-toe-state](https://github.com/bled1908/dsa_practice_2/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bled1908/dsa_practice_2/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/bled1908/dsa_practice_2/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bled1908/dsa_practice_2/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/bled1908/dsa_practice_2/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/bled1908/dsa_practice_2/tree/master/0799-champagne-tower) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bled1908/dsa_practice_2/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
