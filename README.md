@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/bled1908/dsa_practice_2/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/bled1908/dsa_practice_2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bled1908/dsa_practice_2/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
