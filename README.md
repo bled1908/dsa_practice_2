@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/bled1908/dsa_practice_2/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bled1908/dsa_practice_2/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/bled1908/dsa_practice_2/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/bled1908/dsa_practice_2/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/bled1908/dsa_practice_2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -1262,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/bled1908/dsa_practice_2/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/bled1908/dsa_practice_2/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/bled1908/dsa_practice_2/tree/master/0678-valid-parenthesis-string) |
 ## Graph
 |  |
 | ------- |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/bled1908/dsa_practice_2/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/bled1908/dsa_practice_2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
