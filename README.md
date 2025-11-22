@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/bled1908/dsa_practice_2/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/bled1908/dsa_practice_2/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
