@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bled1908/dsa_practice_2/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0707-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -1485,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/bled1908/dsa_practice_2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bled1908/dsa_practice_2/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
