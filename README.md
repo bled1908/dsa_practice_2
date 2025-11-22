@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/bled1908/dsa_practice_2/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/bled1908/dsa_practice_2/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/bled1908/dsa_practice_2/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bled1908/dsa_practice_2/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bled1908/dsa_practice_2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
 ## Bucket Sort
 |  |
 | ------- |
