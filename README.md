@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/bled1908/dsa_practice_2/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/bled1908/dsa_practice_2/tree/master/0799-champagne-tower) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
