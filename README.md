@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/bled1908/dsa_practice_2/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bled1908/dsa_practice_2/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/bled1908/dsa_practice_2/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0503-next-greater-element-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/bled1908/dsa_practice_2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0503-next-greater-element-ii) |
 ## Memoization
 |  |
 | ------- |
