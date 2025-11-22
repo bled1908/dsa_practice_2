@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bled1908/dsa_practice_2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
 | [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
+| [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/bled1908/dsa_practice_2/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bled1908/dsa_practice_2/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
+| [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 ## Quickselect
 |  |
 | ------- |
