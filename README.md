@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/bled1908/dsa_practice_2/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0624-maximum-distance-in-arrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bled1908/dsa_practice_2/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/bled1908/dsa_practice_2/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
