@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bled1908/dsa_practice_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/bled1908/dsa_practice_2/tree/master/0420-strong-password-checker) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/bled1908/dsa_practice_2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/bled1908/dsa_practice_2/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/bled1908/dsa_practice_2/tree/master/0420-strong-password-checker) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
