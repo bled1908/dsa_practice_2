@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/bled1908/dsa_practice_2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bled1908/dsa_practice_2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -1162,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bled1908/dsa_practice_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bled1908/dsa_practice_2/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/bled1908/dsa_practice_2/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
@@ -1362,4 +1365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/bled1908/dsa_practice_2/tree/master/0470-implement-rand10-using-rand7) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bled1908/dsa_practice_2/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
