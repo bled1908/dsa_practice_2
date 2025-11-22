@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/bled1908/dsa_practice_2/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bled1908/dsa_practice_2/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/bled1908/dsa_practice_2/tree/master/0593-valid-square) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/bled1908/dsa_practice_2/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/bled1908/dsa_practice_2/tree/master/0593-valid-square) |
 ## Line Sweep
 |  |
 | ------- |
