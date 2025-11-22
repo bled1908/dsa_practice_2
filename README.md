@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/bled1908/dsa_practice_2/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bled1908/dsa_practice_2/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/bled1908/dsa_practice_2/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bled1908/dsa_practice_2/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/bled1908/dsa_practice_2/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/bled1908/dsa_practice_2/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/bled1908/dsa_practice_2/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/bled1908/dsa_practice_2/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -959,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bled1908/dsa_practice_2/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -1223,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/bled1908/dsa_practice_2/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/bled1908/dsa_practice_2/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
