@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0789-escape-the-ghosts](https://github.com/bled1908/dsa_practice_2/tree/master/0789-escape-the-ghosts) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/bled1908/dsa_practice_2/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/bled1908/dsa_practice_2/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1121,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/bled1908/dsa_practice_2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1246,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
 | [0781-rabbits-in-forest](https://github.com/bled1908/dsa_practice_2/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1340,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/bled1908/dsa_practice_2/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1724,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bled1908/dsa_practice_2/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
+| [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 ## String Matching
 |  |
 | ------- |
