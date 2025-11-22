@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/bled1908/dsa_practice_2/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/bled1908/dsa_practice_2/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/bled1908/dsa_practice_2/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/bled1908/dsa_practice_2/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/bled1908/dsa_practice_2/tree/master/0388-longest-absolute-file-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/bled1908/dsa_practice_2/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/bled1908/dsa_practice_2/tree/master/0388-longest-absolute-file-path) |
 ## Graph
 |  |
 | ------- |
