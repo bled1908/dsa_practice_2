@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/bled1908/dsa_practice_2/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bled1908/dsa_practice_2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/bled1908/dsa_practice_2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1518,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/bled1908/dsa_practice_2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -1545,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/bled1908/dsa_practice_2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1736,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/bled1908/dsa_practice_2/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/bled1908/dsa_practice_2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 ## Bitmask
 |  |
 | ------- |
