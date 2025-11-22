@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/bled1908/dsa_practice_2/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bled1908/dsa_practice_2/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/bled1908/dsa_practice_2/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/bled1908/dsa_practice_2/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
