@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/bled1908/dsa_practice_2/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/bled1908/dsa_practice_2/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
