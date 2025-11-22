@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bled1908/dsa_practice_2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/bled1908/dsa_practice_2/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0556-next-greater-element-iii) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bled1908/dsa_practice_2/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0606-construct-string-from-binary-tree) |
