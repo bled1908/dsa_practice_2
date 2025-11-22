@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/bled1908/dsa_practice_2/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1226,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/bled1908/dsa_practice_2/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/bled1908/dsa_practice_2/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 ## Bucket Sort
 |  |
 | ------- |
