@@ -900,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/bled1908/dsa_practice_2/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/bled1908/dsa_practice_2/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/bled1908/dsa_practice_2/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bled1908/dsa_practice_2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bled1908/dsa_practice_2/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
 ## Data Stream
 |  |
 | ------- |
