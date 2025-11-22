@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/bled1908/dsa_practice_2/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/bled1908/dsa_practice_2/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/bled1908/dsa_practice_2/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/bled1908/dsa_practice_2/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/bled1908/dsa_practice_2/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bled1908/dsa_practice_2/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1588,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/bled1908/dsa_practice_2/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/bled1908/dsa_practice_2/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
