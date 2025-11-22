@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bled1908/dsa_practice_2/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/bled1908/dsa_practice_2/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/bled1908/dsa_practice_2/tree/master/0401-binary-watch) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bled1908/dsa_practice_2/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/bled1908/dsa_practice_2/tree/master/0401-binary-watch) |
 ## Quickselect
 |  |
 | ------- |
