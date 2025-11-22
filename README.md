@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/bled1908/dsa_practice_2/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/bled1908/dsa_practice_2/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0685-redundant-connection-ii) |
+| [0687-longest-univalue-path](https://github.com/bled1908/dsa_practice_2/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/bled1908/dsa_practice_2/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
