@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bled1908/dsa_practice_2/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bled1908/dsa_practice_2/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/bled1908/dsa_practice_2/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/bled1908/dsa_practice_2/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/bled1908/dsa_practice_2/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bled1908/dsa_practice_2/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/bled1908/dsa_practice_2/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bled1908/dsa_practice_2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0543-diameter-of-binary-tree) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bled1908/dsa_practice_2/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/bled1908/dsa_practice_2/tree/master/0419-battleships-in-a-board) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
