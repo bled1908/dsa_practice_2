@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bled1908/dsa_practice_2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/bled1908/dsa_practice_2/tree/master/0775-global-and-local-inversions) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bled1908/dsa_practice_2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 | [0761-special-binary-string](https://github.com/bled1908/dsa_practice_2/tree/master/0761-special-binary-string) |
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
