@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bled1908/dsa_practice_2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bled1908/dsa_practice_2/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bled1908/dsa_practice_2/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0516-longest-palindromic-subsequence) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/bled1908/dsa_practice_2/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bled1908/dsa_practice_2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bled1908/dsa_practice_2/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/bled1908/dsa_practice_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bled1908/dsa_practice_2/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bled1908/dsa_practice_2/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
