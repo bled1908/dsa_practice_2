@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/bled1908/dsa_practice_2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/bled1908/dsa_practice_2/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/bled1908/dsa_practice_2/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/bled1908/dsa_practice_2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bled1908/dsa_practice_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
