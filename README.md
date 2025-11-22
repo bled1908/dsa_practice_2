@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/bled1908/dsa_practice_2/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1401,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1420,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/bled1908/dsa_practice_2/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/bled1908/dsa_practice_2/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0677-map-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
