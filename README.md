@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bled1908/dsa_practice_2/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/bled1908/dsa_practice_2/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/bled1908/dsa_practice_2/tree/master/0682-baseball-game) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/bled1908/dsa_practice_2/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/bled1908/dsa_practice_2/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/bled1908/dsa_practice_2/tree/master/0682-baseball-game) |
 ## Graph
 |  |
 | ------- |
@@ -1381,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/bled1908/dsa_practice_2/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/bled1908/dsa_practice_2/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/bled1908/dsa_practice_2/tree/master/0682-baseball-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
