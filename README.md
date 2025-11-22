@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bled1908/dsa_practice_2/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/bled1908/dsa_practice_2/tree/master/0509-fibonacci-number) |
+| [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 ## String
 |  |
 | ------- |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/bled1908/dsa_practice_2/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/bled1908/dsa_practice_2/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0730-count-different-palindromic-subsequences) |
+| [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/bled1908/dsa_practice_2/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/bled1908/dsa_practice_2/tree/master/0726-number-of-atoms) |
+| [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1388,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bled1908/dsa_practice_2/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/bled1908/dsa_practice_2/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/bled1908/dsa_practice_2/tree/master/0735-asteroid-collision) |
+| [0736-parse-lisp-expression](https://github.com/bled1908/dsa_practice_2/tree/master/0736-parse-lisp-expression) |
 ## Graph
 |  |
 | ------- |
