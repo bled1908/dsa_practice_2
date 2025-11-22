@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/bled1908/dsa_practice_2/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/bled1908/dsa_practice_2/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/bled1908/dsa_practice_2/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
