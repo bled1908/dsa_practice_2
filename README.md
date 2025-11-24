@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bled1908/dsa_practice_2/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/bled1908/dsa_practice_2/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
+| [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/bled1908/dsa_practice_2/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/bled1908/dsa_practice_2/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/bled1908/dsa_practice_2/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/bled1908/dsa_practice_2/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1301,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bled1908/dsa_practice_2/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bled1908/dsa_practice_2/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/bled1908/dsa_practice_2/tree/master/0767-reorganize-string) |
+| [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
