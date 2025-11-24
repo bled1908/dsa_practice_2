@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/bled1908/dsa_practice_2/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bled1908/dsa_practice_2/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/bled1908/dsa_practice_2/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/bled1908/dsa_practice_2/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/bled1908/dsa_practice_2/tree/master/0808-soup-servings) |
+| [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/bled1908/dsa_practice_2/tree/master/0782-transform-to-chessboard) |
 | [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1896,6 +1899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/bled1908/dsa_practice_2/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 ## Randomized
 |  |
 | ------- |
@@ -1979,4 +1983,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/bled1908/dsa_practice_2/tree/master/0753-cracking-the-safe) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
