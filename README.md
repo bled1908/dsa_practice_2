@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/bled1908/dsa_practice_2/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/bled1908/dsa_practice_2/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/bled1908/dsa_practice_2/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/bled1908/dsa_practice_2/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/bled1908/dsa_practice_2/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1803,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 ## String Matching
 |  |
 | ------- |
