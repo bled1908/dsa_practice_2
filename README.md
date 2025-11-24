@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/bled1908/dsa_practice_2/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/bled1908/dsa_practice_2/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/bled1908/dsa_practice_2/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/bled1908/dsa_practice_2/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/bled1908/dsa_practice_2/tree/master/0818-race-car) |
+| [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1313,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/bled1908/dsa_practice_2/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
