@@ -1180,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/bled1908/dsa_practice_2/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/bled1908/dsa_practice_2/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/bled1908/dsa_practice_2/tree/master/0824-goat-latin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
