@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/bled1908/dsa_practice_2/tree/master/0803-bricks-falling-when-hit) |
 | [0804-unique-morse-code-words](https://github.com/bled1908/dsa_practice_2/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
+| [0806-number-of-lines-to-write-string](https://github.com/bled1908/dsa_practice_2/tree/master/0806-number-of-lines-to-write-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1144,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/bled1908/dsa_practice_2/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/bled1908/dsa_practice_2/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/bled1908/dsa_practice_2/tree/master/0806-number-of-lines-to-write-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
