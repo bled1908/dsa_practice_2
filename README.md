@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/bled1908/dsa_practice_2/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
+| [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/bled1908/dsa_practice_2/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
+| [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1932,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/bled1908/dsa_practice_2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/bled1908/dsa_practice_2/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/bled1908/dsa_practice_2/tree/master/0593-valid-square) |
+| [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 ## Line Sweep
 |  |
 | ------- |
