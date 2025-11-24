@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/bled1908/dsa_practice_2/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/bled1908/dsa_practice_2/tree/master/0817-linked-list-components) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/bled1908/dsa_practice_2/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/bled1908/dsa_practice_2/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/bled1908/dsa_practice_2/tree/master/0817-linked-list-components) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/bled1908/dsa_practice_2/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/bled1908/dsa_practice_2/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/bled1908/dsa_practice_2/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/bled1908/dsa_practice_2/tree/master/0817-linked-list-components) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
