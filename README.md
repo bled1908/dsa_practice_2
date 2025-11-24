@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/bled1908/dsa_practice_2/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/bled1908/dsa_practice_2/tree/master/0813-largest-sum-of-averages) |
+| [0818-race-car](https://github.com/bled1908/dsa_practice_2/tree/master/0818-race-car) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
