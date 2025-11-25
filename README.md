@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0835-image-overlap) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/bled1908/dsa_practice_2/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/bled1908/dsa_practice_2/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0834-sum-of-distances-in-tree) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/bled1908/dsa_practice_2/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/bled1908/dsa_practice_2/tree/master/0838-push-dominoes) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1349,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/bled1908/dsa_practice_2/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1593,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bled1908/dsa_practice_2/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/bled1908/dsa_practice_2/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/bled1908/dsa_practice_2/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1679,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/bled1908/dsa_practice_2/tree/master/0785-is-graph-bipartite) |
 | [0803-bricks-falling-when-hit](https://github.com/bled1908/dsa_practice_2/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/bled1908/dsa_practice_2/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
