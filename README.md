@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/bled1908/dsa_practice_2/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/bled1908/dsa_practice_2/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/bled1908/dsa_practice_2/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/bled1908/dsa_practice_2/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/bled1908/dsa_practice_2/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1483,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/bled1908/dsa_practice_2/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bled1908/dsa_practice_2/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/bled1908/dsa_practice_2/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1769,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bled1908/dsa_practice_2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bled1908/dsa_practice_2/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/bled1908/dsa_practice_2/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
