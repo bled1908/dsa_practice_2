@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0836-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -2005,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/bled1908/dsa_practice_2/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/bled1908/dsa_practice_2/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0836-rectangle-overlap) |
 ## Line Sweep
 |  |
 | ------- |
