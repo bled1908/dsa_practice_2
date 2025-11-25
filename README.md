@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/bled1908/dsa_practice_2/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0834-sum-of-distances-in-tree) |
+| [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1519,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bled1908/dsa_practice_2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
@@ -2054,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/bled1908/dsa_practice_2/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/bled1908/dsa_practice_2/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
 ## Counting Sort
 |  |
 | ------- |
