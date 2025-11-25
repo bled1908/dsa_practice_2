@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/bled1908/dsa_practice_2/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/bled1908/dsa_practice_2/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bled1908/dsa_practice_2/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bled1908/dsa_practice_2/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/bled1908/dsa_practice_2/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/bled1908/dsa_practice_2/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/bled1908/dsa_practice_2/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -1417,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/bled1908/dsa_practice_2/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/bled1908/dsa_practice_2/tree/master/0792-number-of-matching-subsequences) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/bled1908/dsa_practice_2/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
