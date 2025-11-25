@@ -1216,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/bled1908/dsa_practice_2/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1730,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/bled1908/dsa_practice_2/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/bled1908/dsa_practice_2/tree/master/0816-ambiguous-coordinates) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Quickselect
 |  |
 | ------- |
