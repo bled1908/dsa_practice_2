@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
+| [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/bled1908/dsa_practice_2/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -1366,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1794,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/bled1908/dsa_practice_2/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bled1908/dsa_practice_2/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/bled1908/dsa_practice_2/tree/master/0826-most-profit-assigning-work) |
+| [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
