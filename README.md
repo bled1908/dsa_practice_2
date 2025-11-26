@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0855-exam-room](https://github.com/bled1908/dsa_practice_2/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/bled1908/dsa_practice_2/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/bled1908/dsa_practice_2/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0848-shifting-letters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
@@ -1498,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/bled1908/dsa_practice_2/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/bled1908/dsa_practice_2/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bled1908/dsa_practice_2/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bled1908/dsa_practice_2/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
@@ -2038,6 +2043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bled1908/dsa_practice_2/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/bled1908/dsa_practice_2/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -2154,4 +2160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
