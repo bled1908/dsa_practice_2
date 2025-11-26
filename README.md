@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1559,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
