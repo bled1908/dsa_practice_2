@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/bled1908/dsa_practice_2/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1548,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bled1908/dsa_practice_2/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
+| [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1831,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
