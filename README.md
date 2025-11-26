@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/0849-maximize-distance-to-closest-person) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
