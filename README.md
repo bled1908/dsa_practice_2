@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/bled1908/dsa_practice_2/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
+| [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -2077,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/bled1908/dsa_practice_2/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
 ## Line Sweep
 |  |
 | ------- |
@@ -2140,4 +2142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
