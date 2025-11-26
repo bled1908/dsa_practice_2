@@ -1245,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0859-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1389,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
+| [0859-buddy-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
