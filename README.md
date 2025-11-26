@@ -1020,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
 | [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0866-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -2174,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0866-prime-palindrome) |
 ## Monotonic Queue
 |  |
 | ------- |
