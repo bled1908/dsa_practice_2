@@ -1238,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/bled1908/dsa_practice_2/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0848-shifting-letters) |
+| [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/bled1908/dsa_practice_2/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
+| [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1631,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/bled1908/dsa_practice_2/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
