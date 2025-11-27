@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/bled1908/dsa_practice_2/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/bled1908/dsa_practice_2/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1862,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
