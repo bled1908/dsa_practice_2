@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -1763,6 +1764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/bled1908/dsa_practice_2/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/bled1908/dsa_practice_2/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -2156,6 +2158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/bled1908/dsa_practice_2/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/bled1908/dsa_practice_2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
