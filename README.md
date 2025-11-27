@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/bled1908/dsa_practice_2/tree/master/0879-profitable-schemes) |
+| [0887-super-egg-drop](https://github.com/bled1908/dsa_practice_2/tree/master/0887-super-egg-drop) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/bled1908/dsa_practice_2/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
+| [0887-super-egg-drop](https://github.com/bled1908/dsa_practice_2/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1550,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/bled1908/dsa_practice_2/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/bled1908/dsa_practice_2/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/bled1908/dsa_practice_2/tree/master/0887-super-egg-drop) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
