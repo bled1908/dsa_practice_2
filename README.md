@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/bled1908/dsa_practice_2/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/bled1908/dsa_practice_2/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
 | [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -2100,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bled1908/dsa_practice_2/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 ## Randomized
 |  |
 | ------- |
