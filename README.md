@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1419,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
