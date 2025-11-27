@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/bled1908/dsa_practice_2/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/bled1908/dsa_practice_2/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/bled1908/dsa_practice_2/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1598,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -2147,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/bled1908/dsa_practice_2/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/bled1908/dsa_practice_2/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/bled1908/dsa_practice_2/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
 ## Line Sweep
 |  |
 | ------- |
