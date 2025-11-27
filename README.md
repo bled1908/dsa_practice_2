@@ -1281,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/bled1908/dsa_practice_2/tree/master/0880-decoded-string-at-index) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/bled1908/dsa_practice_2/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/bled1908/dsa_practice_2/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/bled1908/dsa_practice_2/tree/master/0880-decoded-string-at-index) |
 ## Graph
 |  |
 | ------- |
