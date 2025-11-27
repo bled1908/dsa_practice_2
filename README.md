@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bled1908/dsa_practice_2/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0867-transpose-matrix) |
+| [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/bled1908/dsa_practice_2/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/bled1908/dsa_practice_2/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
+| [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bled1908/dsa_practice_2/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/bled1908/dsa_practice_2/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
@@ -1858,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bled1908/dsa_practice_2/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/bled1908/dsa_practice_2/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/bled1908/dsa_practice_2/tree/master/0870-advantage-shuffle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
