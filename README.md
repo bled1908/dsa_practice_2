@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/bled1908/dsa_practice_2/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/bled1908/dsa_practice_2/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0900-rle-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0900-rle-iterator) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/bled1908/dsa_practice_2/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/bled1908/dsa_practice_2/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
+| [0900-rle-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0900-rle-iterator) |
 ## Enumeration
 |  |
 | ------- |
@@ -2021,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/bled1908/dsa_practice_2/tree/master/0855-exam-room) |
 | [0895-maximum-frequency-stack](https://github.com/bled1908/dsa_practice_2/tree/master/0895-maximum-frequency-stack) |
+| [0900-rle-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0900-rle-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2102,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0341-flatten-nested-list-iterator) |
+| [0900-rle-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0900-rle-iterator) |
 ## Database
 |  |
 | ------- |
