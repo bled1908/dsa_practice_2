@@ -1468,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0895-maximum-frequency-stack](https://github.com/bled1908/dsa_practice_2/tree/master/0895-maximum-frequency-stack) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1782,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/bled1908/dsa_practice_2/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/bled1908/dsa_practice_2/tree/master/0880-decoded-string-at-index) |
+| [0895-maximum-frequency-stack](https://github.com/bled1908/dsa_practice_2/tree/master/0895-maximum-frequency-stack) |
 ## Graph
 |  |
 | ------- |
@@ -1975,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/bled1908/dsa_practice_2/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/bled1908/dsa_practice_2/tree/master/0895-maximum-frequency-stack) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
@@ -2005,6 +2008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/bled1908/dsa_practice_2/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/bled1908/dsa_practice_2/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/bled1908/dsa_practice_2/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
