@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/bled1908/dsa_practice_2/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0890-find-and-replace-pattern) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/bled1908/dsa_practice_2/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/bled1908/dsa_practice_2/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0890-find-and-replace-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/bled1908/dsa_practice_2/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/bled1908/dsa_practice_2/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/bled1908/dsa_practice_2/tree/master/0890-find-and-replace-pattern) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
