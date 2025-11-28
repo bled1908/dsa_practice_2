@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/bled1908/dsa_practice_2/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1447,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/bled1908/dsa_practice_2/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/bled1908/dsa_practice_2/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/bled1908/dsa_practice_2/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
