@@ -1086,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0899-orderly-queue) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/bled1908/dsa_practice_2/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/bled1908/dsa_practice_2/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1522,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0829-consecutive-numbers-sum) |
 | [0845-longest-mountain-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/0845-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
+| [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 ## Binary Search Tree
 |  |
 | ------- |
