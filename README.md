@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/bled1908/dsa_practice_2/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0896-monotonic-array](https://github.com/bled1908/dsa_practice_2/tree/master/0896-monotonic-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
