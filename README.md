@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/bled1908/dsa_practice_2/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/bled1908/dsa_practice_2/tree/master/0887-super-egg-drop) |
+| [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/bled1908/dsa_practice_2/tree/master/0761-special-binary-string) |
 | [0770-basic-calculator-iv](https://github.com/bled1908/dsa_practice_2/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bled1908/dsa_practice_2/tree/master/0779-k-th-symbol-in-grammar) |
+| [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 ## String
 |  |
 | ------- |
@@ -2065,6 +2069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/bled1908/dsa_practice_2/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
+| [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 ## Bucket Sort
 |  |
 | ------- |
