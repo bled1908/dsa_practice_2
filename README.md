@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/bled1908/dsa_practice_2/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/bled1908/dsa_practice_2/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1328,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/bled1908/dsa_practice_2/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/bled1908/dsa_practice_2/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/bled1908/dsa_practice_2/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/bled1908/dsa_practice_2/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
