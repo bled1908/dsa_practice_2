@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1795,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/bled1908/dsa_practice_2/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/bled1908/dsa_practice_2/tree/master/0909-snakes-and-ladders) |
+| [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -2076,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/bled1908/dsa_practice_2/tree/master/0900-rle-iterator) |
 | [0901-online-stock-span](https://github.com/bled1908/dsa_practice_2/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/bled1908/dsa_practice_2/tree/master/0911-online-election) |
+| [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 ## Doubly-Linked List
 |  |
 | ------- |
