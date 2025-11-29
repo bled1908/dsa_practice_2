@@ -1361,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 | [0916-word-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1851,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/bled1908/dsa_practice_2/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bled1908/dsa_practice_2/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Graph
 |  |
 | ------- |
@@ -2004,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/bled1908/dsa_practice_2/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
