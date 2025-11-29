@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0910-smallest-range-ii) |
 | [0911-online-election](https://github.com/bled1908/dsa_practice_2/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bled1908/dsa_practice_2/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
