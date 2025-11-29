@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0927-three-equal-parts) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/bled1908/dsa_practice_2/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0916-word-subsets) |
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1818,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/bled1908/dsa_practice_2/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1894,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/bled1908/dsa_practice_2/tree/master/0886-possible-bipartition) |
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -1925,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/bled1908/dsa_practice_2/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/bled1908/dsa_practice_2/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
