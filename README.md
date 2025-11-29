@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0916-word-subsets](https://github.com/bled1908/dsa_practice_2/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bled1908/dsa_practice_2/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bled1908/dsa_practice_2/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/bled1908/dsa_practice_2/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/bled1908/dsa_practice_2/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0910-smallest-range-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
