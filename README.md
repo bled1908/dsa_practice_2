@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
+| [0927-three-equal-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0927-three-equal-parts) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bled1908/dsa_practice_2/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-number-of-music-playlists](https://github.com/bled1908/dsa_practice_2/tree/master/0920-number-of-music-playlists) |
+| [0927-three-equal-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0927-three-equal-parts) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
