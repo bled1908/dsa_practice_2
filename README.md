@@ -1387,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/bled1908/dsa_practice_2/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0929-unique-email-addresses](https://github.com/bled1908/dsa_practice_2/tree/master/0929-unique-email-addresses) |
+| [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1891,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/bled1908/dsa_practice_2/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bled1908/dsa_practice_2/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 ## Graph
 |  |
 | ------- |
@@ -2049,6 +2051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bled1908/dsa_practice_2/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
@@ -2270,6 +2273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bled1908/dsa_practice_2/tree/master/0933-number-of-recent-calls) |
+| [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 ## Data Stream
 |  |
 | ------- |
