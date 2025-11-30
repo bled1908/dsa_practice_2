@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bled1908/dsa_practice_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -1960,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 ## Graph
 |  |
 | ------- |
@@ -2262,6 +2265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/bled1908/dsa_practice_2/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/bled1908/dsa_practice_2/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bled1908/dsa_practice_2/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 ## Memoization
 |  |
 | ------- |
