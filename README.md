@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/bled1908/dsa_practice_2/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/bled1908/dsa_practice_2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1915,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/bled1908/dsa_practice_2/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
+| [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
 ## Graph
 |  |
 | ------- |
@@ -2102,6 +2104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/bled1908/dsa_practice_2/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/bled1908/dsa_practice_2/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0885-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
