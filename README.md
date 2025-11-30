@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/bled1908/dsa_practice_2/tree/master/0934-shortest-bridge) |
 | [0937-reorder-data-in-log-files](https://github.com/bled1908/dsa_practice_2/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
+| [0941-valid-mountain-array](https://github.com/bled1908/dsa_practice_2/tree/master/0941-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
