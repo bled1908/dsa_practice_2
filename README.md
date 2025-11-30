@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/bled1908/dsa_practice_2/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/bled1908/dsa_practice_2/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/bled1908/dsa_practice_2/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
