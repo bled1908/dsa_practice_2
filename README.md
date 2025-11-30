@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bled1908/dsa_practice_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
+| [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1627,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bled1908/dsa_practice_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
+| [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
