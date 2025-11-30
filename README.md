@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/bled1908/dsa_practice_2/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
 | [0941-valid-mountain-array](https://github.com/bled1908/dsa_practice_2/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/bled1908/dsa_practice_2/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
+| [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [0937-reorder-data-in-log-files](https://github.com/bled1908/dsa_practice_2/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -2062,6 +2065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bled1908/dsa_practice_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
+| [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
