@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0949-largest-time-for-given-digits) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2117,6 +2119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/bled1908/dsa_practice_2/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Ordered Set
@@ -2313,6 +2316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bled1908/dsa_practice_2/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Data Stream
 |  |
 | ------- |
