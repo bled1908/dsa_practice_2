@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/bled1908/dsa_practice_2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
+| [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/bled1908/dsa_practice_2/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2082,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/bled1908/dsa_practice_2/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
