@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bled1908/dsa_practice_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1615,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bled1908/dsa_practice_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
