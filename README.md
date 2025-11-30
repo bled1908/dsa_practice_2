@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/bled1908/dsa_practice_2/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0931-minimum-falling-path-sum) |
+| [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bled1908/dsa_practice_2/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-number-of-music-playlists](https://github.com/bled1908/dsa_practice_2/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/bled1908/dsa_practice_2/tree/master/0927-three-equal-parts) |
+| [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
