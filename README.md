@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/bled1908/dsa_practice_2/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/bled1908/dsa_practice_2/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/bled1908/dsa_practice_2/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
+| [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -2286,6 +2288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/bled1908/dsa_practice_2/tree/master/0773-sliding-puzzle) |
 | [0894-all-possible-full-binary-trees](https://github.com/bled1908/dsa_practice_2/tree/master/0894-all-possible-full-binary-trees) |
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
+| [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 ## Bucket Sort
 |  |
 | ------- |
