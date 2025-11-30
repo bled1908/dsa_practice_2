@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0954-array-of-doubled-pairs) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0956-tallest-billboard](https://github.com/bled1908/dsa_practice_2/tree/master/0956-tallest-billboard) |
+| [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bled1908/dsa_practice_2/tree/master/0952-largest-component-size-by-common-factor) |
+| [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/bled1908/dsa_practice_2/tree/master/0868-binary-gap) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/bled1908/dsa_practice_2/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/bled1908/dsa_practice_2/tree/master/0943-find-the-shortest-superstring) |
+| [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/bled1908/dsa_practice_2/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/bled1908/dsa_practice_2/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0954-array-of-doubled-pairs) |
+| [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
