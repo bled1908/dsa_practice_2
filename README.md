@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/bled1908/dsa_practice_2/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0931-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/bled1908/dsa_practice_2/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/bled1908/dsa_practice_2/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0931-minimum-falling-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0931-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1723,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0885-spiral-matrix-iii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0892-surface-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/bled1908/dsa_practice_2/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0931-minimum-falling-path-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
