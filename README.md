@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bled1908/dsa_practice_2/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 | [0970-powerful-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0970-powerful-integers) |
 | [0972-equal-rational-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0972-equal-rational-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -2099,6 +2104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bled1908/dsa_practice_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bled1908/dsa_practice_2/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -2446,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/bled1908/dsa_practice_2/tree/master/0892-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 ## Line Sweep
 |  |
 | ------- |
