@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/bled1908/dsa_practice_2/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
