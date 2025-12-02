@@ -1196,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0963-minimum-area-rectangle-ii) |
 | [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 | [0970-powerful-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0970-powerful-integers) |
+| [0972-equal-rational-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0972-equal-rational-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
+| [0972-equal-rational-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0972-equal-rational-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
