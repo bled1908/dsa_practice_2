@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
+| [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1271,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/bled1908/dsa_practice_2/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/bled1908/dsa_practice_2/tree/master/0943-find-the-shortest-superstring) |
 | [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
+| [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1848,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/bled1908/dsa_practice_2/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
+| [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -2118,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/bled1908/dsa_practice_2/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
 ## Quickselect
 |  |
 | ------- |
