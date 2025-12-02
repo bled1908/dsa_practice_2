@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-least-operators-to-express-number](https://github.com/bled1908/dsa_practice_2/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/bled1908/dsa_practice_2/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1869,6 +1871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bled1908/dsa_practice_2/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/bled1908/dsa_practice_2/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
