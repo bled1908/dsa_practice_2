@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/bled1908/dsa_practice_2/tree/master/0983-minimum-cost-for-tickets) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bled1908/dsa_practice_2/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
