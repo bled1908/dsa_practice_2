@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0983-minimum-cost-for-tickets](https://github.com/bled1908/dsa_practice_2/tree/master/0983-minimum-cost-for-tickets) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bled1908/dsa_practice_2/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -2497,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0391-perfect-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0850-rectangle-area-ii) |
+| [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
 ## Shortest Path
 |  |
 | ------- |
