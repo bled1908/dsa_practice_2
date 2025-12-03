@@ -1492,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/bled1908/dsa_practice_2/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/0972-equal-rational-numbers) |
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
+| [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -2200,6 +2201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
+| [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
