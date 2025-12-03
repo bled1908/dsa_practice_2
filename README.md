@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/bled1908/dsa_practice_2/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
@@ -1913,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
@@ -2466,6 +2470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/bled1908/dsa_practice_2/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0936-stamping-the-sequence) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Data Stream
 |  |
 | ------- |
