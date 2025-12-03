@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1883,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/bled1908/dsa_practice_2/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
 | [0980-unique-paths-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -1998,6 +2000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/bled1908/dsa_practice_2/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
