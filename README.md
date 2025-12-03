@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bled1908/dsa_practice_2/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
 | [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -2069,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/bled1908/dsa_practice_2/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bled1908/dsa_practice_2/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
@@ -2104,6 +2107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bled1908/dsa_practice_2/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bled1908/dsa_practice_2/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/bled1908/dsa_practice_2/tree/master/0959-regions-cut-by-slashes) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
