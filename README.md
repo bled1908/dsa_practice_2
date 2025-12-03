@@ -1234,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/bled1908/dsa_practice_2/tree/master/0991-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -2222,6 +2223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/bled1908/dsa_practice_2/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/bled1908/dsa_practice_2/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
+| [0991-broken-calculator](https://github.com/bled1908/dsa_practice_2/tree/master/0991-broken-calculator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
