@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/bled1908/dsa_practice_2/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/bled1908/dsa_practice_2/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1693,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bled1908/dsa_practice_2/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/bled1908/dsa_practice_2/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -1904,6 +1907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bled1908/dsa_practice_2/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0978-longest-turbulent-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
