@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0998-maximum-binary-tree-ii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0998-maximum-binary-tree-ii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
