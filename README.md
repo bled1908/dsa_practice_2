@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/bled1908/dsa_practice_2/tree/master/0997-find-the-town-judge) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/bled1908/dsa_practice_2/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/bled1908/dsa_practice_2/tree/master/1001-grid-illumination) |
+| [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1526,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
+| [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -1716,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/bled1908/dsa_practice_2/tree/master/0997-find-the-town-judge) |
 | [1001-grid-illumination](https://github.com/bled1908/dsa_practice_2/tree/master/1001-grid-illumination) |
+| [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
