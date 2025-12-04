@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bled1908/dsa_practice_2/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/bled1908/dsa_practice_2/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1014-best-sightseeing-pair](https://github.com/bled1908/dsa_practice_2/tree/master/1014-best-sightseeing-pair) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/bled1908/dsa_practice_2/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0996-number-of-squareful-arrays) |
 | [1009-complement-of-base-10-integer](https://github.com/bled1908/dsa_practice_2/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bled1908/dsa_practice_2/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/bled1908/dsa_practice_2/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
