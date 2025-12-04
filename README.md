@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/bled1908/dsa_practice_2/tree/master/1020-number-of-enclaves) |
 | [1023-camelcase-matching](https://github.com/bled1908/dsa_practice_2/tree/master/1023-camelcase-matching) |
 | [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
+| [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/bled1908/dsa_practice_2/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1763,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bled1908/dsa_practice_2/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bled1908/dsa_practice_2/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1888,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/bled1908/dsa_practice_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
