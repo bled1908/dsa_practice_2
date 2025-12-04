@@ -1528,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bled1908/dsa_practice_2/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/bled1908/dsa_practice_2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
@@ -2077,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/bled1908/dsa_practice_2/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/bled1908/dsa_practice_2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Graph
 |  |
 | ------- |
