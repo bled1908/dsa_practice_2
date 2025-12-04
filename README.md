@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/bled1908/dsa_practice_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bled1908/dsa_practice_2/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/bled1908/dsa_practice_2/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -2269,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/bled1908/dsa_practice_2/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/bled1908/dsa_practice_2/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bled1908/dsa_practice_2/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/bled1908/dsa_practice_2/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
