@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/bled1908/dsa_practice_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bled1908/dsa_practice_2/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/bled1908/dsa_practice_2/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/bled1908/dsa_practice_2/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1849,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/bled1908/dsa_practice_2/tree/master/0975-range-sum-of-bst) |
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/bled1908/dsa_practice_2/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
@@ -2088,6 +2092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/bled1908/dsa_practice_2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/bled1908/dsa_practice_2/tree/master/1006-clumsy-factorial) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph
 |  |
 | ------- |
@@ -2410,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/bled1908/dsa_practice_2/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/bled1908/dsa_practice_2/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/bled1908/dsa_practice_2/tree/master/0975-odd-even-jump) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
