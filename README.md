@@ -1317,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/bled1908/dsa_practice_2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0996-number-of-squareful-arrays) |
+| [1009-complement-of-base-10-integer](https://github.com/bled1908/dsa_practice_2/tree/master/1009-complement-of-base-10-integer) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
