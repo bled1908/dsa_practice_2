@@ -1265,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/bled1908/dsa_practice_2/tree/master/0996-number-of-squareful-arrays) |
 | [1006-clumsy-factorial](https://github.com/bled1908/dsa_practice_2/tree/master/1006-clumsy-factorial) |
 | [1012-numbers-with-repeated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1012-numbers-with-repeated-digits) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/bled1908/dsa_practice_2/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/bled1908/dsa_practice_2/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bled1908/dsa_practice_2/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
