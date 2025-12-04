@@ -924,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bled1908/dsa_practice_2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/bled1908/dsa_practice_2/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bled1908/dsa_practice_2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bled1908/dsa_practice_2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1570,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bled1908/dsa_practice_2/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/bled1908/dsa_practice_2/tree/master/1023-camelcase-matching) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
