@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/bled1908/dsa_practice_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/bled1908/dsa_practice_2/tree/master/1020-number-of-enclaves) |
 | [1023-camelcase-matching](https://github.com/bled1908/dsa_practice_2/tree/master/1023-camelcase-matching) |
+| [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/bled1908/dsa_practice_2/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1012-numbers-with-repeated-digits) |
 | [1014-best-sightseeing-pair](https://github.com/bled1908/dsa_practice_2/tree/master/1014-best-sightseeing-pair) |
+| [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -2311,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bled1908/dsa_practice_2/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/bled1908/dsa_practice_2/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/bled1908/dsa_practice_2/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Simulation
 |  |
