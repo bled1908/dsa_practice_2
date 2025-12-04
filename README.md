@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1012-numbers-with-repeated-digits) |
 | [1014-best-sightseeing-pair](https://github.com/bled1908/dsa_practice_2/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
+| [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1279,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1017-convert-to-base-2](https://github.com/bled1908/dsa_practice_2/tree/master/1017-convert-to-base-2) |
+| [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
@@ -2573,6 +2575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/bled1908/dsa_practice_2/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
+| [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
 ## Randomized
 |  |
 | ------- |
@@ -2676,6 +2679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/bled1908/dsa_practice_2/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
