@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bled1908/dsa_practice_2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bled1908/dsa_practice_2/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/bled1908/dsa_practice_2/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/bled1908/dsa_practice_2/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bled1908/dsa_practice_2/tree/master/0151-reverse-words-in-a-string) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bled1908/dsa_practice_2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bled1908/dsa_practice_2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bled1908/dsa_practice_2/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/bled1908/dsa_practice_2/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/bled1908/dsa_practice_2/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/bled1908/dsa_practice_2/tree/master/0164-maximum-gap) |
