@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/bled1908/dsa_practice_2/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3640-trionic-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3640-trionic-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3640-trionic-array-ii) |
 ## Tree
 |  |
 | ------- |
