@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bled1908/dsa_practice_2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bled1908/dsa_practice_2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1920-build-array-from-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/1920-build-array-from-permutation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 | [3379-transformed-array](https://github.com/bled1908/dsa_practice_2/tree/master/3379-transformed-array) |
@@ -2364,6 +2365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/bled1908/dsa_practice_2/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bled1908/dsa_practice_2/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/bled1908/dsa_practice_2/tree/master/1006-clumsy-factorial) |
+| [1920-build-array-from-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/1920-build-array-from-permutation) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/bled1908/dsa_practice_2/tree/master/3379-transformed-array) |
