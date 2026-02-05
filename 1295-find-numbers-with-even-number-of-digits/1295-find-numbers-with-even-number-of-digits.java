@@ -1,17 +1,12 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int res = 0;
+        int count = 0;
         for(int num: nums) {
-            if(isEvenDigit(num)) res++;
+            if(findCount(num) % 2 == 0) count++;
         }
-        return res;
+        return count;
     }
-    private boolean isEvenDigit(int num) {
-        int n = 0;
-        while(num > 0) {
-            num /= 10;
-            n++;
-        }
-        return ((n & 1) == 0);
+    private int findCount(int n) {
+        return (int) Math.log10(n) + 1;
     }
 }
