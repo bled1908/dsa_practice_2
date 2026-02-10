@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bled1908/dsa_practice_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/bled1908/dsa_practice_2/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bled1908/dsa_practice_2/tree/master/0973-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/bled1908/dsa_practice_2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/bled1908/dsa_practice_2/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -1624,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/bled1908/dsa_practice_2/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/bled1908/dsa_practice_2/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
+| [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1788,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
@@ -2673,6 +2677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/bled1908/dsa_practice_2/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0850-rectangle-area-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
 | ------- |
