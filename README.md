@@ -1607,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1801,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
@@ -1826,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bled1908/dsa_practice_2/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bled1908/dsa_practice_2/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1837,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0949-largest-time-for-given-digits) |
 | [0970-powerful-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0970-powerful-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search Tree
 |  |
 | ------- |
