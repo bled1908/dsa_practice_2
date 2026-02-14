@@ -1,22 +1,24 @@
 class Solution {
-    public double champagneTower(int poured, int queryRow, int queryGlass) {
-	if (poured == 0)
-		return 0;
-	
-	var prevRow = new ArrayList<>(List.of((double) poured));
+    public double champagneTower(int poured, int query_row, int query_glass) {
+        double[] dp = new double[query_row + 2];
+        dp[0] = poured;
 
-	while (queryRow-- > 0) {
-		var champagneInEnds = Math.max(0, (prevRow.get(0) - 1) / 2);  // min champagne can be 0
-		var currentRow = new ArrayList<>(List.of(champagneInEnds)); // list with first glass
+        for (int row = 0; row < query_row; row++) {
+            double[] next_row = new double[query_row + 2];
+            
+            for (int glass = 0; glass <= row; glass++) {
+                double amount = dp[glass];
+                
+                if (amount > 1.0) {
+                    double excess = (amount - 1.0) / 2.0;
+                    next_row[glass] += excess;
+                    next_row[glass + 1] += excess;
+                }
+            }
+            
+            dp = next_row;
+        }
 
-		for (var i = 1; i < prevRow.size(); i++)
-			currentRow.add(Math.max(0, (prevRow.get(i - 1) - 1) / 2) + // flow from top-left glass
-						   Math.max(0, (prevRow.get(i) - 1) / 2));     // flow from top-right glass
-
-		currentRow.add(champagneInEnds); // last glass
-		prevRow = currentRow;
-	}
-	
-	return Math.min(1, prevRow.get(queryGlass)); // max champagne can be 1
-}
+        return Math.min(dp[query_glass], 1.0);
+    }
 }
