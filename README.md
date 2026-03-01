@@ -1612,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bled1908/dsa_practice_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bled1908/dsa_practice_2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bled1908/dsa_practice_2/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bled1908/dsa_practice_2/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bled1908/dsa_practice_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bled1908/dsa_practice_2/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
