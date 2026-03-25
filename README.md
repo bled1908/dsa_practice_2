@@ -1314,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/bled1908/dsa_practice_2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1017-convert-to-base-2](https://github.com/bled1908/dsa_practice_2/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -1607,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/bled1908/dsa_practice_2/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/bled1908/dsa_practice_2/tree/master/1023-camelcase-matching) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bled1908/dsa_practice_2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/bled1908/dsa_practice_2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1250-longest-common-subsequence) |
