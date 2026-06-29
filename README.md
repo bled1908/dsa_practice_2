@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1920-build-array-from-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bled1908/dsa_practice_2/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 | [3379-transformed-array](https://github.com/bled1908/dsa_practice_2/tree/master/3379-transformed-array) |
@@ -1624,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bled1908/dsa_practice_2/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bled1908/dsa_practice_2/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3714-longest-balanced-substring-ii) |
