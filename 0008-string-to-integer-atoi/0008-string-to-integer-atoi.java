@@ -1,25 +1,26 @@
 class Solution {
-  public int myAtoi(String s) {
-    s = s.strip();
-    if (s.isEmpty())
-      return 0;
+    public int myAtoi(String s) {
+        long result = 0;
+        boolean conversionStarted = false;
+        boolean negative = false;
 
-    final int sign = s.charAt(0) == '-' ? -1 : 1;
-    if (s.charAt(0) == '+' || s.charAt(0) == '-')
-      s = s.substring(1);
+        for (char c : s.toCharArray()) {
+            if (!conversionStarted && c == '-') {
+                negative = true;
+                conversionStarted = true;
+            } else if (!conversionStarted && c == '+') {
+                conversionStarted = true;
+            } else if (c >= '0' && c <= '9') {
+                long int_max = Integer.MAX_VALUE;
+                result = Math.min(negative ? int_max + 1 : int_max, (result * 10) + c - '0');
+                conversionStarted = true;
+            } else if (!conversionStarted && c == ' ') {
+                // ignore leading spaces
+            } else {
+                break;
+            }
+        }
 
-    long num = 0;
-
-    for (final char c : s.toCharArray()) {
-      if (!Character.isDigit(c))
-        break;
-      num = num * 10 + (c - '0');
-      if (sign * num <= Integer.MIN_VALUE)
-        return Integer.MIN_VALUE;
-      if (sign * num >= Integer.MAX_VALUE)
-        return Integer.MAX_VALUE;
+        return negative ? (int) -result : (int) result;
     }
-
-    return sign * (int) num;
-  }
 }
