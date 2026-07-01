@@ -1,33 +1,30 @@
 class Solution {
     public int romanToInt(String s) {
-        int total = 0;
-        int prevValue = 0;
+        
+        //1.You store values like this in Map
+        Map<Character,Integer> hm=new HashMap<>();
+        hm.put('I',1);
+        hm.put('V',5);
+        hm.put('X',10);
+        hm.put('L',50);
+        hm.put('C',100);
+        hm.put('D',500);
+        hm.put('M',1000);
 
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int currValue = valueOf(s.charAt(i));
+    //2.You can do this in one line like this
+    //Map<Character, Integer> val = Map.of('I',1,'V',5,'X',10,'L',50,'C',100,'D',500,'M',1000);
 
-            if (currValue < prevValue) {
-                total -= currValue;
-            } else {
-                total += currValue;
-            }
-
-            prevValue = currValue;
-        }
-
-        return total;
+    int total=0;
+    for(int i=0;i<s.length();i++)
+    {
+        int curr=hm.get(s.charAt(i));               // value of current symbol
+        // if a bigger symbol comes next, current is a subtraction (e.g. I before V = IV = 4)
+        if( i+1 < s.length() && curr < hm.get(s.charAt(i+1)))
+        total-=curr;                                // smaller-before-bigger -> subtract
+        else
+        total+=curr;                                // normal case -> add
     }
-
-    private int valueOf(char ch) {
-        switch (ch) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: return 0;
-        }
+    
+    return total;
     }
 }
