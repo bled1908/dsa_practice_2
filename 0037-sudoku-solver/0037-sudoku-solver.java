@@ -1,37 +1,62 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-       solve(0,0,board);
+        backtrack(board);
     }
-    public boolean solve(int row, int col, char[][] board){
-        if(row > 8 ) return true;
-        if(col == 9){
-            return solve(row+1, 0, board);
-        }
-        if(board[row][col] != '.'){
-            return solve(row, col+1, board);
-        }
-        for(char num = '1'; num <= '9'; num++){
-            if(isValid(board, row, col, num)){
-                board[row][col] = num;
-                if(solve(row, col+1, board)){
-                    return true;
+
+    private boolean backtrack(char[][] board) {
+        for (int r = 0; r < board.length; r++) {
+            for (int c = 0; c < board[0].length; c++) {
+
+                if (board[r][c] == '.') {
+
+                    for (int num = 1; num <= 9; num++) {
+
+                        if (isSafe(r, c, num, board)) {
+
+                            board[r][c] = (char) (num + '0');
+
+                            if (backtrack(board)) {
+                                return true;
+                            }
+
+                            board[r][c] = '.';
+                        }
+                    }
+
+                    return false;
                 }
-                board[row][col] = '.';
             }
         }
-        return false;
+
+        return true;
     }
-      private boolean isValid(char[][] board, int row, int col, char num) {
-        for (int i = 0; i < 9; i++) {
-            if (board[row][i] == num || board[i][col] == num) return false;
-        }
-        int startRow = (row / 3) * 3;
-        int startCol = (col / 3) * 3;
-        for (int i = startRow; i < startRow + 3; i++) {
-            for (int j = startCol; j < startCol + 3; j++) {
-                if (board[i][j] == num) return false;
+
+    private boolean isSafe(int row, int col, int num, char[][] board) {
+
+        for (int c = 0; c < 9; c++) {
+            if (board[row][c] == (char) (num + '0')) {
+                return false;
             }
         }
+
+        for (int r = 0; r < 9; r++) {
+            if (board[r][col] == (char) (num + '0')) {
+                return false;
+            }
+        }
+
+        int boxRow = (row / 3) * 3;
+        int boxCol = (col / 3) * 3;
+
+        for (int r = boxRow; r < boxRow + 3; r++) {
+            for (int c = boxCol; c < boxCol + 3; c++) {
+
+                if (board[r][c] == (char) (num + '0')) {
+                    return false;
+                }
+            }
+        }
+
         return true;
     }
 }
