@@ -1,22 +1,31 @@
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-   List<List<Integer>> list = new LinkedList<List<Integer>>();
-   Arrays.sort(candidates);
-   backtrack(list, new ArrayList<Integer>(), candidates, target, 0);
-   return list;
-}
+    private void fun(int[] candidates, int remaining, int ptr, List<Integer> curr, List<List<Integer>> res) {
+        // Base Case: Target sum achieved perfectly
+        if(remaining == 0) {
+            res.add(new ArrayList<>(curr)); // Shallow copy snapshot
+            return;
+        }
+        
+        for(int poss = ptr; poss < candidates.length; poss++){
+            // 1. Early Break: Since it's sorted, all upcoming elements are too large
+            if(candidates[poss] > remaining) break;
+            
+            // 2. Duplicate Pruning: Skip duplicate choices at the exact same tree level
+            if(poss > ptr && candidates[poss] == candidates[poss - 1]) continue;
+            
+            curr.add(candidates[poss]);
+            
+            // Recurse forward to poss + 1 to prevent reuse of the same array element
+            fun(candidates, remaining - candidates[poss], poss + 1, curr, res);
+            
+            curr.remove(curr.size() - 1); // Backtrack state
+        }
+    }
 
-private void backtrack(List<List<Integer>> list, List<Integer> tempList, int[] cand, int remain, int start) {
-   
-   if(remain < 0) return; /** no solution */
-   else if(remain == 0) list.add(new ArrayList<>(tempList));
-   else{
-      for (int i = start; i < cand.length; i++) {
-         if(i > start && cand[i] == cand[i-1]) continue; /** skip duplicates */
-         tempList.add(cand[i]);
-         backtrack(list, tempList, cand, remain - cand[i], i+1);
-         tempList.remove(tempList.size() - 1);
-      }
-   }
-}
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        Arrays.sort(candidates); // Critical step for both pruning rules to function
+        List<List<Integer>> res = new ArrayList<>();
+        fun(candidates, target, 0, new ArrayList<>(), res);
+        return res;
+    }
 }
