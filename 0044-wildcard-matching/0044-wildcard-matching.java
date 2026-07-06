@@ -1,21 +1,23 @@
-class Solution {
+public class Solution {
     public boolean isMatch(String s, String p) {
-        int n = s.length(), m = p.length();
-        boolean[][] dp = new boolean[n+1][m+1];
-        dp[0][0] = true;
-
-        for (int j = 1; j <= m; j++)
-            if (p.charAt(j-1) == '*') dp[0][j] = dp[0][j-1];
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                char pc = p.charAt(j-1);
-                if (pc == s.charAt(i-1) || pc == '?')
-                    dp[i][j] = dp[i-1][j-1];
-                else if (pc == '*')
-                    dp[i][j] = dp[i][j-1] || dp[i-1][j];
+        boolean[][] match=new boolean[s.length()+1][p.length()+1];
+        match[s.length()][p.length()]=true;
+        for(int i=p.length()-1;i>=0;i--){
+            if(p.charAt(i)!='*')
+                break;
+            else
+                match[s.length()][i]=true;
+        }
+        for(int i=s.length()-1;i>=0;i--){
+            for(int j=p.length()-1;j>=0;j--){
+                if(s.charAt(i)==p.charAt(j)||p.charAt(j)=='?')
+                        match[i][j]=match[i+1][j+1];
+                else if(p.charAt(j)=='*')
+                        match[i][j]=match[i+1][j]||match[i][j+1];
+                else
+                    match[i][j]=false;
             }
         }
-        return dp[n][m];
+        return match[0][0];
     }
 }
