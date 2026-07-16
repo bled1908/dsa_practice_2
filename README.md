@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/bled1908/dsa_practice_2/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bled1908/dsa_practice_2/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1327,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bled1908/dsa_practice_2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2432,6 +2436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/bled1908/dsa_practice_2/tree/master/3379-transformed-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2775,6 +2780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/bled1908/dsa_practice_2/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bled1908/dsa_practice_2/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bled1908/dsa_practice_2/tree/master/0952-largest-component-size-by-common-factor) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Queue
 |  |
 | ------- |
