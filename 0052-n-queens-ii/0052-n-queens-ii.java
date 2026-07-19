@@ -1,65 +1,52 @@
 class Solution {
-    int count=0;
-    public void queens(int col,char[][] board)
-    {
-        if(col==board.length)
-        {
+    int count = 0 ;
+
+    public int totalNQueens(int n) {
+        char[][] board = new char[n][n];
+        nQueens(board, n, 0);
+        return count;
+    }
+
+    private void nQueens(char[][] board, int n, int row) {
+        if (row == n) {
             count++;
             return;
         }
-        for(int row=0;row<board.length;row++)
-        {
-            if(isSafe(board,row,col))
-            {
-                board[row][col]='Q'; // Safe place found -> place queen
-                queens(col+1,board); // Check safe pos in next column
-                board[row][col]='.'; // backtrack remove the queen
+
+        for (int col = 0; col < n; col++) {
+            if (isSafe(board, row, col, n)) {
+                board[row][col] = 'Q';
+                nQueens(board, n, row + 1);
+                board[row][col] = '\0';
             }
         }
     }
-    public boolean isSafe(char[][] board,int row,int col)
-    {
-        int dupRow=row;     int dupCol=col;
-        while(row>=0 && col>=0)
-        {
-            if(board[row][col]=='Q')
-            {
+
+    private boolean isSafe(char[][] board, int row, int col, int n) {
+        for (int i = 0; i < n; i++) {
+            if (board[i][col] == 'Q') {
                 return false;
             }
-            row--;
-            col--;
         }
 
-        row=dupRow;         col=dupCol;
-        while(col>=0)
-        {
-            if(board[row][col]=='Q')
-            {
+        for (int j = 0; j < n; j++) {
+            if (board[row][j] == 'Q') {
                 return false;
             }
-            col--;
         }
-        col=dupCol;
-                while(col>=0 && row<board.length)
-        {
-            if(board[row][col]=='Q')
-            {
+
+        for (int i = row, j = col; i >= 0 && j >= 0; i--, j--) {
+            if (board[i][j] == 'Q') {
                 return false;
             }
-            row++;
-            col--;
         }
+
+        for (int i = row, j = col; i >= 0 && j < n; i--, j++) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
+        }
+
         return true;
-    }
-    public int totalNQueens(int n) {
-        char[][] board=new char[n][n];
-        // Create an empty chess board with all '.'
-        for(int i=0;i<n;i++)
-        {
-            Arrays.fill(board[i],'.');
-        }
-        // Checking postion in one column after getting a successfull position in previous column 
-        queens(0,board);
-        return count;
     }
 }
