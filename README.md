@@ -1638,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bled1908/dsa_practice_2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3714-longest-balanced-substring-ii) |
 ## Prefix Sum
@@ -1878,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/bled1908/dsa_practice_2/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/bled1908/dsa_practice_2/tree/master/0949-largest-time-for-given-digits) |
 | [0970-powerful-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0970-powerful-integers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bled1908/dsa_practice_2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search Tree
 |  |
