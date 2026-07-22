@@ -1,31 +1,34 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(t.length() > s.length() || t.isEmpty()) return "";
-        int left = 0, right = 0;
-        Map<Character, Integer> t_count = new HashMap<>();
-        for(char c: t.toCharArray()) {
-            t_count.put(c, t_count.getOrDefault(c, 0) + 1);
+        int l=0;
+        int r=0;
+        HashMap<Character,Integer>h=new HashMap<>();
+        HashMap<Character,Integer>h1=new HashMap<>();
+        for(int j=0;j<t.length();j++){
+            h1.put(t.charAt(j),h1.getOrDefault(t.charAt(j),0)+1);
+            
         }
-        Map<Character, Integer> window_count = new HashMap<>();
-        int matched = 0;
-        int min_start = 0, min_length = Integer.MAX_VALUE;
-        while(right < s.length()) {
-            char r_elem = s.charAt(right);
-            window_count.put(r_elem, window_count.getOrDefault(r_elem, 0) + 1);
-            if(t_count.containsKey(r_elem) && t_count.get(r_elem).equals(window_count.get(r_elem))) matched++;
-            while(matched == t_count.size()) {
-                if(right - left + 1 < min_length) {
-                    min_length = right - left + 1;
-                    min_start = left;
+        int ans=Integer.MAX_VALUE;
+        String k="";
+        for(r=0;r<s.length();r++){
+            h.put(s.charAt(r),h.getOrDefault(s.charAt(r),0)+1);
+            while(is(h,h1)){
+                if(r-l+1<ans){
+                    ans=r-l+1;
+                k=s.substring(l,r+1);
+                
                 }
-                char l_elem = s.charAt(left);
-                window_count.put(l_elem, window_count.get(l_elem) - 1);
-                if(t_count.containsKey(l_elem) && t_count.get(l_elem) > window_count.get(l_elem)) matched--;
-                left++;
+                h.put(s.charAt(l),h.get(s.charAt(l))-1);
+                l++;
             }
-            right++;
         }
-        if(min_length == Integer.MAX_VALUE) return "";
-        return s.substring(min_start, min_start + min_length);
+        return k;
+    }
+    public static boolean is(HashMap<Character,Integer>h,HashMap<Character,Integer>h1){
+        for(char ch:h1.keySet()){
+            if(h.getOrDefault(ch,0)<h1.get(ch))
+             return false;
+        }
+        return true;
     }
 }
