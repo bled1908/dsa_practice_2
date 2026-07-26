@@ -1,57 +1,56 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        int[] heights = new int[matrix[0].length];
-        if(matrix[0].length == 0){
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
             return 0;
-        }
-        int largest = 0;
-        for(int i = 0 ; i < matrix.length ; i++){
-            for(int j = 0; j < matrix[0].length ; j++){
-                int val = matrix[i][j] - '0';
-                if(val == 0){
-                    heights[j] = 0;
-                }else{
-                    heights[j] = val + heights[j];
-                }
+
+        int maxArea = 0;
+        int cols = matrix[0].length;
+        int[] heights = new int[cols];
+
+        for (char[] row : matrix) {
+            for (int i = 0; i < cols; i++) {
+                // Update heights: increment if '1', reset if '0'
+                heights[i] = (row[i] == '1') ? heights[i] + 1 : 0;
             }
-            largest = Math.max(largest,findmax(heights));
+            maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
-        return largest;
+
+        return maxArea;
     }
-    public int findmax(int[] heights){
-        int[] left = new int[heights.length];
-        Arrays.fill(left,heights.length);
+
+    public int largestRectangleArea(int[] heights) {
+        int n = heights.length;
+        int[] left = new int[n];
+        int[] right = new int[n];
         Stack<Integer> stack = new Stack<>();
-        for(int i = heights.length - 1 ; i >= 0 ; i--){
-            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i]){
+
+        // Nearest Smaller to Left
+        for (int i = 0; i < n; i++) {
+            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
                 stack.pop();
             }
-            if(!stack.isEmpty()){
-                left[i] = stack.peek();
-            }
+            left[i] = (stack.isEmpty()) ? -1 : stack.peek();
             stack.push(i);
         }
-        int[] right = new int[heights.length];
-        Arrays.fill(right,-1);
-        Stack<Integer> stack1 = new Stack<>();
-        for(int i = 0 ; i < heights.length ; i++){
-            while(!stack1.isEmpty() && heights[stack1.peek()] >= heights[i]){
-                stack1.pop();
+
+        stack.clear(); // Reuse stack
+
+        // Nearest Smaller to Right
+        for (int i = n - 1; i >= 0; i--) {
+            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
+                stack.pop();
             }
-            if(!stack1.isEmpty()){
-                right[i] = stack1.peek();
-            }
-            stack1.push(i);
+            right[i] = (stack.isEmpty()) ? n : stack.peek();
+            stack.push(i);
         }
+
+        // Compute max area
         int maxArea = 0;
-        for(int i = 0 ; i < heights.length ; i++){
-            int width = 1;
-            int l = left[i] - i - 1;
-            int r = i - right[i] - 1;
-            int area = l + r + width;
-            int mul = area * heights[i];
-            maxArea = Math.max(maxArea,mul);
+        for (int i = 0; i < n; i++) {
+            int width = right[i] - left[i] - 1;
+            maxArea = Math.max(maxArea, heights[i] * width);
         }
+
         return maxArea;
     }
 }
