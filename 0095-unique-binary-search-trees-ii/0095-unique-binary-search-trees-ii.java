@@ -15,29 +15,42 @@
  */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-	return generateSubtrees(1, n);
-}
+        if (n == 0) {
+            return new ArrayList<>();
+        }
+        
+        Map<String, List<TreeNode>> memo = new HashMap<>();
 
-private List<TreeNode> generateSubtrees(int s, int e) {
-	List<TreeNode> res = new LinkedList<TreeNode>();
-	if (s > e) {
-		res.add(null); // empty tree
-		return res;
-	}
+        return generateTreesHelper(1, n, memo);        
+    }
 
-	for (int i = s; i <= e; ++i) {
-		List<TreeNode> leftSubtrees = generateSubtrees(s, i - 1);
-		List<TreeNode> rightSubtrees = generateSubtrees(i + 1, e);
-
-		for (TreeNode left : leftSubtrees) {
-			for (TreeNode right : rightSubtrees) {
-				TreeNode root = new TreeNode(i);
-				root.left = left;
-				root.right = right;
-				res.add(root);
-			}
-		}
-	}
-	return res;
-}
+    private List<TreeNode> generateTreesHelper(int start, int end, Map<String, List<TreeNode>> memo) {
+        String key = start + "-" + end;
+        if (memo.containsKey(key)) {
+            return memo.get(key);
+        }
+        
+        List<TreeNode> trees = new ArrayList<>();
+        if (start > end) {
+            trees.add(null);
+            return trees;
+        }
+        
+        for (int rootVal = start; rootVal <= end; rootVal++) {
+            List<TreeNode> leftTrees = generateTreesHelper(start, rootVal - 1, memo);
+            List<TreeNode> rightTrees = generateTreesHelper(rootVal + 1, end, memo);
+            
+            for (TreeNode leftTree : leftTrees) {
+                for (TreeNode rightTree : rightTrees) {
+                    TreeNode root = new TreeNode(rootVal);
+                    root.left = leftTree;
+                    root.right = rightTree;
+                    trees.add(root);
+                }
+            }
+        }
+        
+        memo.put(key, trees);
+        return trees;
+    }
 }
