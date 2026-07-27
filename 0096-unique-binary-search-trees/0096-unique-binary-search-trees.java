@@ -1,13 +1,18 @@
 class Solution {
     public int numTrees(int n) {
-        if(n<0)return 0;
-        int []arr=new int[n+1];
-        arr[0]=1;
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=i;j++){
-                arr[i]+=arr[j-1]*arr[i-j];
-            }
+        int[] uniqTree = new int[n + 1];
+        for (int i = 0; i <= n; i++) {
+            uniqTree[i] = 1;
         }
-        return arr[n];
+
+        for (int nodes = 2; nodes <= n; nodes++) {
+            int total = 0;
+            for (int root = 1; root <= nodes; root++) {
+                total += uniqTree[root - 1] * uniqTree[nodes - root];
+            }
+            uniqTree[nodes] = total;
+        }
+
+        return uniqTree[n];        
     }
 }
