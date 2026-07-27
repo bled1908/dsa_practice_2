@@ -1,35 +1,34 @@
 class Solution {
     public int numDecodings(String s) {
-        int dp[] = new int [s.length()];
-        Arrays.fill(dp,-1);
-        return helper(s,0,dp);
-    }
-
-    public int helper(String ques, int idx, int dp[]){
-        if(idx>ques.length()){
-            return 0;
+        int n = s.length();
+        if (n == 1 || s.charAt(0) == '0') {
+            return s.charAt(0) >= '1' && s.charAt(0) <= '9' ? 1 : 0;
         }
 
-        if(idx==ques.length()){
-            return 1;
+        int[] dp = new int[n];
+
+        int d1 = s.charAt(0) - '0';
+        int d2 = s.charAt(1) - '0';
+
+        dp[0] = d1 >= 1 && d1 <= 9 ? 1 : 0;
+
+        dp[1] += d2 >= 1 && d2 <= 9 ? 1 : 0;
+        dp[1] += d1 * 10 + d2 >= 1 && d1 * 10 + d2 <= 26 && d1 != 0 ? 1 : 0;
+
+        for (int i = 2; i < n; i++) {
+            d1 = s.charAt(i - 1) - '0';
+            d2 = s.charAt(i) - '0';
+
+            int num = d1 * 10 + d2;
+
+            int sum = (d2 >= 1 && d2 <= 9 ? dp[i - 1] : 0);
+            sum += (num >= 1 && num <= 26 && d1 != 0 ? dp[i - 2] : 0);
+
+            dp[i] = sum;
+
+            if (dp[i] == 0) return 0;
         }
 
-        if(ques.charAt(idx)=='0'){
-            return 0;
-        }
-
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-
-        int ans = helper(ques,idx+1,dp); // one character
-        
-        if(ques.length()>idx+1){ // two character
-            int num = Integer.parseInt(ques.substring(idx,idx+2));
-            if(num<=26){
-                ans+=helper(ques,idx+2,dp);
-            }
-        }
-        return dp[idx]=ans;
+        return dp[n - 1];
     }
 }
