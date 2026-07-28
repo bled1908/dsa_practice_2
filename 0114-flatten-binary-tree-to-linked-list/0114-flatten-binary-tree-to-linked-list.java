@@ -1,34 +1,20 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    Queue<TreeNode> queue = new LinkedList<>();
-    public void addToQueue(TreeNode root){
-        if(root == null){
-            return;
-        }
-        queue.add(root);         
-        addToQueue(root.left);
-        addToQueue(root.right);
-    }
     public void flatten(TreeNode root) {
-        addToQueue(root);
-        while(!queue.isEmpty()){   
-            TreeNode temp = queue.poll();
-            temp.right = queue.peek();
-            temp.left = null;
+        Queue<TreeNode> q = new LinkedList<>();
+        insert(root, q);
+        q.poll(); // skip the original root since we'll relink from it
+        while (!q.isEmpty()) {
+            root.right = q.poll(); // connect to next node
+            root.left = null;      // left should be null in linked list
+            root = root.right;
         }
+    }
+
+    // Preorder traversal to collect nodes
+    void insert(TreeNode node, Queue<TreeNode> queue) {
+        if (node == null) return;
+        queue.add(node);
+        insert(node.left, queue);
+        insert(node.right, queue);
     }
 }
