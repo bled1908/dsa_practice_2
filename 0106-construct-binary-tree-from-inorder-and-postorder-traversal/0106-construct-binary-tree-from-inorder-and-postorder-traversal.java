@@ -1,39 +1,33 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     int postIndex;
-    Map<Integer, Integer> inorderMap = new HashMap<>();
+    Map<Integer, Integer> map;
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        postIndex = postorder.length - 1;
-        for(int i = 0; i < inorder.length; i++) {
-            inorderMap.put(inorder[i], i);
+        map = new HashMap<>();
+        
+        // store inorder indices
+        for (int i = 0; i < inorder.length; i++) {
+            map.put(inorder[i], i);
         }
-        return build(postorder, inorder, 0, inorder.length - 1);
+
+        postIndex = postorder.length - 1;
+
+        return helper(inorder, postorder, 0, inorder.length - 1);
     }
 
-    private TreeNode build(int[] postorder, int[] inorder, int inStart, int inEnd) {
-        if (inStart > inEnd) return null;
+    private TreeNode helper(int[] inorder, int[] postorder, int left, int right) {
+        if (left > right) return null;
 
-        TreeNode root = new TreeNode(postorder[postIndex--]);
+        // pick root from postorder
+        int rootVal = postorder[postIndex--];
+        TreeNode root = new TreeNode(rootVal);
 
-        int inIndex = inorderMap.get(root.val);
+        // find index in inorder
+        int index = map.get(rootVal);
 
-        root.right = build(postorder, inorder, inIndex + 1, inEnd);
-        root.left = build(postorder, inorder, inStart, inIndex - 1);
+        // IMPORTANT: build right first
+        root.right = helper(inorder, postorder, index + 1, right);
+        root.left  = helper(inorder, postorder, left, index - 1);
 
         return root;
     }
