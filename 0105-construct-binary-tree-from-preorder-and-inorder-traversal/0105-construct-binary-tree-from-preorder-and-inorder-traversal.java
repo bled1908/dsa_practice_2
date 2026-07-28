@@ -1,42 +1,32 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        if(preorder.length == 0) return null;
+        Deque<Integer> preorderQueue = new ArrayDeque<>();
+        for (int val : preorder) {
+            preorderQueue.offer(val);
+        }
 
-        TreeNode root = new TreeNode(preorder[0]);
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
+        return build(preorderQueue, inorder);        
+    }
 
-        int inIndex = 0;
+    private TreeNode build(Deque<Integer> preorder, int[] inorder) {
+        if (inorder.length > 0) {
+            int idx = indexOf(inorder, preorder.poll());
+            TreeNode root = new TreeNode(inorder[idx]);
 
-        for(int i = 1; i < preorder.length; i++) {
-            TreeNode node = stack.peek();
-            if(node.val != inorder[inIndex]) {
-                node.left = new TreeNode(preorder[i]);
-                stack.push(node.left);
-            } else {
-                while (!stack.isEmpty() && stack.peek().val == inorder[inIndex]) {
-                    node = stack.pop();
-                    inIndex++;
-                }
-                node.right = new TreeNode(preorder[i]);
-                stack.push(node.right);
+            root.left = build(preorder, Arrays.copyOfRange(inorder, 0, idx));
+            root.right = build(preorder, Arrays.copyOfRange(inorder, idx + 1, inorder.length));
+
+            return root;
+        }
+        return null;
+    }
+
+    private int indexOf(int[] arr, int value) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == value) {
+                return i;
             }
         }
-        return root;
-    }
+        return -1; // shouldn't happen with valid input
+    }    
 }
