@@ -1333,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bled1908/dsa_practice_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bled1908/dsa_practice_2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/bled1908/dsa_practice_2/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1640,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/bled1908/dsa_practice_2/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bled1908/dsa_practice_2/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bled1908/dsa_practice_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bled1908/dsa_practice_2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3714-longest-balanced-substring-ii) |
@@ -2413,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/bled1908/dsa_practice_2/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bled1908/dsa_practice_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
