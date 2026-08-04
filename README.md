@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/bled1908/dsa_practice_2/tree/master/3731-find-missing-elements) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/bled1908/dsa_practice_2/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bled1908/dsa_practice_2/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/bled1908/dsa_practice_2/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bled1908/dsa_practice_2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -1849,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/bled1908/dsa_practice_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/bled1908/dsa_practice_2/tree/master/3731-find-missing-elements) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
