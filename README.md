@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bled1908/dsa_practice_2/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
 | [3379-transformed-array](https://github.com/bled1908/dsa_practice_2/tree/master/3379-transformed-array) |
@@ -1336,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bled1908/dsa_practice_2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bled1908/dsa_practice_2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bled1908/dsa_practice_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bled1908/dsa_practice_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bled1908/dsa_practice_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bled1908/dsa_practice_2/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1877,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/bled1908/dsa_practice_2/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bled1908/dsa_practice_2/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bled1908/dsa_practice_2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 | [3713-longest-balanced-substring-i](https://github.com/bled1908/dsa_practice_2/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -2422,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/bled1908/dsa_practice_2/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/bled1908/dsa_practice_2/tree/master/1024-video-stitching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bled1908/dsa_practice_2/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bled1908/dsa_practice_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -2690,6 +2694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bled1908/dsa_practice_2/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/bled1908/dsa_practice_2/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 ## Randomized
 |  |
 | ------- |
@@ -2813,4 +2818,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
