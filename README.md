@@ -2834,4 +2834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bled1908/dsa_practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
