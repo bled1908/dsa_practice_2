@@ -1,37 +1,35 @@
-class Solution {
-    public List<List<String>> partition(String s) {
-        // Time Complexity: O(n * 2^n)
-        // Space Complexity: O(n^2)
-
-        List<List<String>> result = new ArrayList<>();
-        List<String> path = new ArrayList<>();
-        
-        backtrack(0, s, path, result);
-        return result;
+class Solution
+{
+    boolean isPalindrome(String s)
+    {
+        String s2 = new StringBuilder(s).reverse().toString();
+        return s.equals(s2);
     }
-    
-    private void backtrack(int start, String s, List<String> path, List<List<String>> result) {
-        if (start == s.length()) {
-            result.add(new ArrayList<>(path));
+
+    void getAllParts(String s, List<List<String>> ans, List<String> parts)
+    {
+        if (s.length() == 0)
+        {
+            ans.add(new ArrayList<>(parts));  // copy, since parts keeps changing
             return;
         }
-        for (int end = start + 1; end <= s.length(); ++end) {
-            String substr = s.substring(start, end);
-            if (isPalindrome(substr)) {
-                path.add(substr);
-                backtrack(end, s, path, result);
-                path.remove(path.size() - 1);
+        for (int i = 0; i < s.length(); i++)
+        {
+            String part = s.substring(0, i + 1);
+            if (isPalindrome(part))
+            {
+                parts.add(part);
+                getAllParts(s.substring(i + 1), ans, parts);
+                parts.remove(parts.size() - 1);  // undo
             }
         }
     }
-    
-    private boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) return false;
-            left++;
-            right--;
-        }
-        return true;
+
+    public List<List<String>> partition(String s)
+    {
+        List<List<String>> ans = new ArrayList<>();
+        List<String> parts = new ArrayList<>();
+        getAllParts(s, ans, parts);
+        return ans;
     }
 }
