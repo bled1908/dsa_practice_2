@@ -13,31 +13,34 @@
  *     }
  * }
  */
+
+
+
+//iterative way
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        TreeNode curr = root, prev;
+        //iterative
 
-        while(curr != null) {
-            if(curr.left == null) {
-                result.add(curr.val);
-                curr = curr.right;
-            } else {
-                prev = curr.left;
-                while(prev.right != null && prev.right != curr) {
-                    prev = prev.right;
-                }
+        List<Integer> res = new ArrayList<>();
+        if (root == null) return res;
+        Stack<TreeNode> st = new Stack<>();
+        st.push(root);
 
-                if(prev.right == null) {
-                    result.add(curr.val);
-                    prev.right = curr;
-                    curr = curr.left;
-                } else {
-                    prev.right = null;
-                    curr = curr.right;
-                }
-            }
+        while (!st.isEmpty()){  //print  left  right   - print  right left 
+            //pop current and add to ans
+            TreeNode curr = st.pop();
+            res.add(curr.val);
+
+            //push right
+            if (curr.right != null)
+                st.push(curr.right);
+
+
+            //push left
+             if (curr.left != null)
+                st.push(curr.left);
         }
-        return result;
+
+        return res;
     }
 }
