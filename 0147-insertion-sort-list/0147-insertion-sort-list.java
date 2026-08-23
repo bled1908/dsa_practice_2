@@ -8,20 +8,25 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode insertionSortList(ListNode head) {
-        ListNode dummy=new ListNode(-1);
-        ListNode temp=head;
-        while(temp!=null){
-            ListNode agla=temp.next;
-            ListNode pichla=dummy;
-            while(pichla.next!=null && pichla.next.val<=temp.val)
-                pichla=pichla.next;
-            temp.next=pichla.next;
-            pichla.next=temp;
-            temp=agla;
-        }
-        return dummy.next;
+        ListNode curr = head,
+            pHead = new ListNode(0);
+            
+        while(curr != null){
+            ListNode c = pHead.next,
+                p = pHead;
+
+            while(c != null && c.val <= curr.val) {
+                p = p.next;
+                c = c.next; 
+            }
+
+            ListNode next = curr.next;
+            curr.next = c;
+            p.next = curr;
+            curr = next; 
+        }  
+        return pHead.next;
     }
 }
