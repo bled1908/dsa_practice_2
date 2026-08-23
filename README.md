@@ -2820,6 +2820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bled1908/dsa_practice_2/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/bled1908/dsa_practice_2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bled1908/dsa_practice_2/tree/master/0200-number-of-islands) |
 ## Minimax
 |  |
