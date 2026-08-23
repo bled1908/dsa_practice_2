@@ -2849,4 +2849,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bled1908/dsa_practice_2/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
