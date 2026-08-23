@@ -1,17 +1,20 @@
 class Solution {
-    public int minCut(String a) {
-        int[] cut = new int[a.length()];
-        boolean[][] palindrome = new boolean[a.length()][a.length()]; 
-        for (int i = 0; i < a.length(); i++) {
-            int minCut = i;
-            for (int j = 0; j <= i; j++) {
-                if (a.charAt(i) == a.charAt(j) && (i - j < 2 || palindrome[j + 1][i - 1])) {
-                    palindrome[j][i] = true;
-                    minCut = Math.min(minCut, j == 0 ? 0 : (cut[j - 1] + 1));
-                }
+    public int minCut(String s) {
+    char[] c = s.toCharArray();
+    int n = c.length;
+    int[] cut = new int[n];
+    boolean[][] pal = new boolean[n][n];
+    
+    for(int i = 0; i < n; i++) {
+        int min = i;
+        for(int j = 0; j <= i; j++) {
+            if(c[j] == c[i] && (j + 1 > i - 1 || pal[j + 1][i - 1])) {
+                pal[j][i] = true;  
+                min = j == 0 ? 0 : Math.min(min, cut[j - 1] + 1);
             }
-            cut[i] = minCut;
         }
-        return cut[a.length() - 1];
+        cut[i] = min;
     }
+    return cut[n - 1];
+}
 }
