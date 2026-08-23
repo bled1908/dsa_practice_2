@@ -2838,4 +2838,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/bled1908/dsa_practice_2/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/bled1908/dsa_practice_2/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
