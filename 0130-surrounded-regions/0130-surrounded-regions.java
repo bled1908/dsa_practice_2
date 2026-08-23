@@ -1,40 +1,52 @@
 class Solution {
-    private void dfs(int r,int c,char[][] board,boolean[][] visited)
-    {
-        if(r<0 || c<0 || r>=board.length || c>=board[0].length || board[r][c]=='X' || visited[r][c]) return;
-        visited[r][c]=true;
-        dfs(r-1,c,board,visited);
-        dfs(r+1,c,board,visited);
-        dfs(r,c+1,board,visited);
-        dfs(r,c-1,board,visited);
-    }
     public void solve(char[][] board) {
-        int m = board.length;
-        int n = board[0].length;
-        boolean[][] visited = new boolean[m][n];
-        for(int i=0;i<n;i++)
-            if(board[0][i]=='O') 
-            dfs(0,i,board,visited);
+        boolean vis[][] = new boolean [board.length][board[0].length];
+       
+       Queue<int[]> qu = new LinkedList<>();
+       
+       for(int i =0;i< board.length;i++){
+           for(int j =0;j< board[0].length;j++){
+               if(i==0||j==0||i==board.length-1||j==board[0].length-1){
+                   if(board[i][j]=='O'){
+                       vis[i][j]=true;
+                       qu.add(new int[]{i,j});
+                   }
+               }
+           }
+       }
+       while(!qu.isEmpty()){
+           int arr[]= qu.poll();
+           int r = arr[0];
+           int c =arr[1];
+         
+           if(r-1>=0&&!vis[r-1][c]&&board[r-1][c]=='O'){
+               vis[r-1][c]=true;
+               qu.add(new int []{r-1,c});
+           }
+           if(c-1>=0&&!vis[r][c-1]&&board[r][c-1]=='O'){
+               vis[r][c-1]=true;
+               qu.add(new int []{r,c-1});
+           }
+           
+           if(r+1<board.length&&!vis[r+1][c]&&board[r+1][c]=='O'){
+               vis[r+1][c]=true;
+               qu.add(new int []{r+1,c});
+           }
 
-        for(int i=0;i<m;i++)
-            if(board[i][0]=='O') 
-            dfs(i,0,board,visited);
-
-        for(int i=0;i<n;i++)
-            if(board[m-1][i]=='O') 
-            dfs(m-1,i,board,visited);
-
-        for(int i=0;i<m;i++)
-            if(board[i][n-1]=='O') 
-            dfs(i,n-1,board,visited);
-
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(board[i][j]=='O' && !visited[i][j])
-                board[i][j] = 'X';
-            }
-        }
+           if(c+1<board[0].length&&!vis[r][c+1]&&board[r][c+1]=='O'){
+               vis[r][c+1]=true;
+               qu.add(new int []{r,c+1});
+           }           
+       }
+       for(int i =0;i<board.length;i++){
+           for(int j = 0 ;j< board[0].length;j++){
+               if(!vis[i][j]){
+                   board[i][j]='X';
+               }else{
+                   board[i][j]='O';
+               }
+           }
+       }
+        
     }
 }
