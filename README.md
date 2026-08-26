@@ -1865,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bled1908/dsa_practice_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bled1908/dsa_practice_2/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2374-node-with-highest-edge-score](https://github.com/bled1908/dsa_practice_2/tree/master/2374-node-with-highest-edge-score) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bled1908/dsa_practice_2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -2869,6 +2870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/bled1908/dsa_practice_2/tree/master/2374-node-with-highest-edge-score) |
 ## Brute-Force Search
 |  |
 | ------- |
