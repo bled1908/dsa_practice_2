@@ -1102,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -2866,6 +2867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 ## Brute-Force Search
 |  |
