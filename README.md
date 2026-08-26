@@ -1102,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -2192,6 +2193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bled1908/dsa_practice_2/tree/master/1020-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
@@ -2293,6 +2295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/bled1908/dsa_practice_2/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/bled1908/dsa_practice_2/tree/master/0913-cat-and-mouse) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -2863,6 +2866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bled1908/dsa_practice_2/tree/master/0133-clone-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2880,4 +2884,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bled1908/dsa_practice_2/tree/master/0149-max-points-on-a-line) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
