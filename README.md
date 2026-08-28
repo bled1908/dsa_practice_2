@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/bled1908/dsa_practice_2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bled1908/dsa_practice_2/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bled1908/dsa_practice_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 | [2029-stone-game-ix](https://github.com/bled1908/dsa_practice_2/tree/master/2029-stone-game-ix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bled1908/dsa_practice_2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/bled1908/dsa_practice_2/tree/master/2529-range-product-queries-of-powers) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/bled1908/dsa_practice_2/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/bled1908/dsa_practice_2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/bled1908/dsa_practice_2/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bled1908/dsa_practice_2/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
@@ -1865,6 +1868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/bled1908/dsa_practice_2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bled1908/dsa_practice_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bled1908/dsa_practice_2/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 | [2374-node-with-highest-edge-score](https://github.com/bled1908/dsa_practice_2/tree/master/2374-node-with-highest-edge-score) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bled1908/dsa_practice_2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bled1908/dsa_practice_2/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -2195,6 +2199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bled1908/dsa_practice_2/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bled1908/dsa_practice_2/tree/master/1020-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/bled1908/dsa_practice_2/tree/master/1558-course-schedule-iv) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bled1908/dsa_practice_2/tree/master/2360-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/bled1908/dsa_practice_2/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -2540,6 +2545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/bled1908/dsa_practice_2/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/bled1908/dsa_practice_2/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/bled1908/dsa_practice_2/tree/master/0981-time-based-key-value-store) |
+| [1993-operations-on-tree](https://github.com/bled1908/dsa_practice_2/tree/master/1993-operations-on-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
